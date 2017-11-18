@@ -48,8 +48,8 @@ Last result: **29** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 10–11 | 10–13 | 10–14 | 10–14 |
-| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 10–11 | 10–13 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 10–14 | 10–15 |
+| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 11 | 10–13 | 10–14 | 10–14 | 10–15 |
 
 ### Probability Mass Function
 
@@ -59,12 +59,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 74% | 99.9% | Median |
-| 11 | 18% | 26% |  |
-| 12 | 2% | 8% |  |
-| 13 | 2% | 5% |  |
-| 14 | 2% | 3% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 35% | 99.7% |  |
+| 11 | 20% | 65% | Median |
+| 12 | 2% | 45% |  |
+| 13 | 34% | 43% |  |
+| 14 | 9% | 9% |  |
 | 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
