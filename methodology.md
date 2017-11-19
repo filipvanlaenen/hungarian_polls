@@ -144,6 +144,47 @@ formed party, it is always wise to include it. If it's e.g. known that the new
 party will only participate in the election in a part of the country, the
 regional data for the new party should be adjusted in that way.
 
+### Results
+
+The following sections show the results for past elections. In particular, for
+each of the tables below, the final results in terms of number of votes were
+feeded to the model as a set of polling results. The sample sizes for these
+fictive polls were 600, 800, 1000, 1200, 1500, 2000, 3000 and 5000, sizes often
+used by polling firms. For each of the sample sizes, the 95% confidence
+intervals for the number of seats for each parties are compared to the actual
+number of seats the parties received.
+
+#### Iceland, 28 October 2017
+
+| Sample Size                                | D                 | V                 | P              | B               | C             | A           | S               | F             | T           | R           | M               |
+|:------------------------------------------:|:-----------------:|:-----------------:|:--------------:|:---------------:|:-------------:|:-----------:|:---------------:|:-------------:|:-----------:|:-----------:|:---------------:|
+| Election Result (28 October 2017)          | 25.2% <br> 16     | 16.9% <br> 11     | 9.2% <br> 6    | 10.7% <br> 8    | 6.7% <br> 4   | 1.2% <br> 0 | 12.1% <br> 7    | 6.9% <br> 4   | 0.1% <br> 0 | 0.2% <br> 0 | 10.9% <br> 7    |
+| 600                                        | 22–29% <br> 14–20 | 14–20% <br> 9–14  | 7–12% <br> 4–7 | 8–13% <br> 5–9  | 5–9% <br> 0–5 | 1–2% <br> 0 | 10–15% <br> 6–9 | 5–9% <br> 3–5 | 0–1% <br> 0 | 0–1% <br> 0 | 9–14% <br> 5–8  |
+| 800                                        | 22–28% <br> 15–19 | 14–20% <br> 10–13 | 7–11% <br> 5–7 | 9–13% <br> 5–8  | 5–9% <br> 3–5 | 1–2% <br> 0 | 10–14% <br> 6–9 | 5–9% <br> 3–6 | 0% <br> 0   | 0–1% <br> 0 | 9–13% <br> 5–8  |
+| 1,000                                      | 23–28% <br> 15–19 | 15–19% <br> 10–13 | 8–11% <br> 5–8 | 9–13% <br> 6–8  | 5–8% <br> 3–5 | 1–2% <br> 0 | 10–14% <br> 6–9 | 5–9% <br> 3–5 | 0–1% <br> 0 | 0–1% <br> 0 | 9–13% <br> 6–9  |
+| 1,200                                      | 23–28% <br> 15–19 | 15–19% <br> 10–13 | 8–11% <br> 5–7 | 9–13% <br> 5–8  | 5–8% <br> 3–5 | 1–2% <br> 0 | 10–14% <br> 7–9 | 6–9% <br> 3–5 | 0% <br> 0   | 0–1% <br> 0 | 9–13% <br> 6–8  |
+| 1,500                                      | 23–28% <br> 16–18 | 15–19% <br> 10–12 | 8–11% <br> 5–6 | 9–12% <br> 6–8  | 6–8% <br> 3–5 | 1–2% <br> 0 | 11–14% <br> 7–8 | 6–8% <br> 4–5 | 0% <br> 0   | 0–1% <br> 0 | 9–13% <br> 6–8  |
+| 2,000                                      | 23–27% <br> 15–18 | 15–19% <br> 10–12 | 8–11% <br> 5–7 | 9–12% <br> 6–8  | 6–8% <br> 3–5 | 1–2% <br> 0 | 11–14% <br> 7–9 | 6–8% <br> 3–5 | 0% <br> 0   | 0–1% <br> 0 | 10–12% <br> 6–8 |
+| 3,000                                      | 24–27% <br> 15–18 | 16–18% <br> 10–12 | 8–10% <br> 5–6 | 10–12% <br> 6–8 | 6–8% <br> 3–5 | 1–2% <br> 0 | 11–13% <br> 7–8 | 6–8% <br> 4–5 | 0% <br> 0   | 0% <br> 0   | 10–12% <br> 6–8 |
+| 5,000                                      | 24–26% <br> 16–18 | 16–18% <br> 11–12 | 8–10% <br> 5–6 | 10–12% <br> 6–8 | 6–7% <br> 4–5 | 1–2% <br> 0 | 11–13% <br> 7–8 | 6–8% <br> 4–5 | 0% <br> 0   | 0% <br> 0   | 10–12% <br> 6–8 |
+| Previous Election Result (29 October 2016) | 29.0% <br> 21     | 15.9% <br> 10     | 14.5% <br> 10  | 11.5% <br> 8    | 10.5% <br> 7  | 7.2% <br> 4 | 5.7% <br> 3     | 3.5% <br> 0   | 1.7% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0     |
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Alþingi (95% confidence interval)
++ **D:** Sjálfstæðisflokkurinn
++ **V:** Vinstrihreyfingin – grænt framboð
++ **P:** Píratar
++ **B:** Framsóknarflokkurinn
++ **C:** Viðreisn
++ **A:** Björt framtíð
++ **S:** Samfylkingin
++ **F:** Flokkur fólksins
++ **T:** Dögun
++ **R:** Alþýðufylkingin
++ **E:** Íslenska þjóðfylkingin
++ **M:** Miðflokkurinn
+
 ## Holes and Spikes in Probability Mass Functions
 
 ## Calculation of the Error Estimate
