@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sat, 18 Nov 2017 09:32:57 +0100</pubDate>
+    <pubDate>Fri, 01 Dec 2017 10:08:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Publicus Research, 11–15 November 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 15–20 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch-seats.png"
+        length="108923"
+        type="image/png"/>
+      <pubDate>Fri, 01 Dec 2017 10:08:07 +0100</pubDate>
+      <dc:date>2017-12-01T10:08:07.690191+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 11–15 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 47.8–53.9%&lt;/li&gt;&lt;li&gt;MSZP: 12.3–16.6%&lt;/li&gt;&lt;li&gt;Jobbik: 15.1–19.8%&lt;/li&gt;&lt;li&gt;LMP: 5.7–8.9%&lt;/li&gt;&lt;li&gt;DK: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.png"
+        length="188067"
+        type="image/png"/>
+      <pubDate>Fri, 01 Dec 2017 10:08:07 +0100</pubDate>
+      <dc:date>2017-12-01T10:08:07.690191+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 6–14 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-14-ZRIZáveczResearch.html#seats</link>
@@ -29,6 +49,6 @@
       <pubDate>Sat, 18 Nov 2017 09:32:57 +0100</pubDate>
       <dc:date>2017-11-18T09:32:57.505003+01:00</dc:date>
     </item>
-    <dc:date>2017-11-18T09:32:57.505003+01:00</dc:date>
+    <dc:date>2017-12-01T10:08:07.690191+01:00</dc:date>
   </channel>
 </rss>
