@@ -8,7 +8,17 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Fri, 08 Dec 2017 22:58:16 +0100</pubDate>
+    <pubDate>Tue, 12 Dec 2017 19:47:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 18–30 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-RepublikonIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 53.2–59.4%&lt;/li&gt;&lt;li&gt;MSZP: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Jobbik: 10.9–15.0%&lt;/li&gt;&lt;li&gt;LMP: 4.6–7.5%&lt;/li&gt;&lt;li&gt;DK: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MLP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-RepublikonIntézet.png"
+        length="188229"
+        type="image/png"/>
+      <pubDate>Tue, 12 Dec 2017 19:47:22 +0100</pubDate>
+      <dc:date>2017-12-12T19:47:22.187896+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 20–28 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-28-SzázadvégAlapítvány.html#seats</link>
@@ -89,6 +99,6 @@
       <pubDate>Sat, 18 Nov 2017 09:32:57 +0100</pubDate>
       <dc:date>2017-11-18T09:32:57.505003+01:00</dc:date>
     </item>
-    <dc:date>2017-12-08T22:58:16.417079+01:00</dc:date>
+    <dc:date>2017-12-12T19:47:22.187896+01:00</dc:date>
   </channel>
 </rss>
