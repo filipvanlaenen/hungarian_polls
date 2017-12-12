@@ -11,6 +11,7 @@ Last result: **44.9%** (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 49.5% | 47.2–52.1% | 46.7–52.8% | 46.2–53.4% | 45.4–54.4% |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 56.3% | N/A | N/A | N/A | N/A |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50.6% | 48.6–52.6% | 48.0–53.2% | 47.5–53.7% | 46.5–54.7% |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 48.0% | 46.6–49.4% | 46.2–49.8% | 45.8–50.2% | 45.1–50.9% |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 50.8% | 48.8–52.9% | 48.2–53.5% | 47.8–53.9% | 46.8–54.9% |
@@ -48,6 +49,7 @@ Last result: **133** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 157 | 154–159 | 153–160 | 152–161 | 151–162 |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 156 | 154–159 | 153–160 | 152–160 | 151–162 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 157 | 155–159 | 155–159 | 154–159 | 153–160 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 157 | 155–160 | 154–161 | 154–162 | 153–163 |
