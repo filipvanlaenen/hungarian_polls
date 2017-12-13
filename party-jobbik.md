@@ -48,8 +48,8 @@ Last result: **23** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–19 | 13–20 | 12–21 |
-| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 13–16 | 13–16 | 13–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 12–20 | 11–21 |
+| [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 13–16 | 13–17 | 12–17 | 11–18 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 17 | 15–18 | 15–18 | 15–19 | 15–19 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
@@ -63,13 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 1.1% | 99.9% |  |
-| 13 | 16% | 98.8% |  |
-| 14 | 7% | 82% |  |
-| 15 | 14% | 75% |  |
-| 16 | 17% | 61% | Median |
-| 17 | 20% | 44% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 1.3% | 99.8% |  |
+| 12 | 5% | 98% |  |
+| 13 | 12% | 93% |  |
+| 14 | 11% | 82% |  |
+| 15 | 12% | 71% |  |
+| 16 | 16% | 59% | Median |
+| 17 | 19% | 43% |  |
 | 18 | 15% | 24% |  |
 | 19 | 5% | 9% |  |
 | 20 | 3% | 4% |  |
