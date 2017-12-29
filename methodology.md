@@ -154,6 +154,34 @@ used by polling firms. For each of the sample sizes, the 95% confidence
 intervals for the number of seats for each parties are compared to the actual
 number of seats the parties received.
 
+#### Norway, 11 September 2017
+
+| Sample Size                                   | Ap                | H                 | FrP               | KrF            | Sp               | V              | SV              | MDG           | R             |
+|:---------------------------------------------:|:-----------------:|:-----------------:|:-----------------:|:--------------:|:----------------:|:--------------:|:---------------:|:-------------:|:-------------:|
+| Election Result (11 September 2017)           | 27.4% <br> 49     | 25.0% <br> 45     | 15.2% <br> 27     | 4.2% <br> 8    | 10.3% <br> 19    | 4.4% <br> 8    | 6.0% <br> 11    | 3.2% <br> 1   | 2.4% <br> 1   |
+| 600                                           | 24–31% <br> 44–57 | 22–29% <br> 38–52 | 13–18% <br> 23–33 | 3–6% <br> 1–11 | 8–13% <br> 14–24 | 3–6% <br> 1–11 | 4–8% <br> 8–15  | 2–5% <br> 1–9 | 1–4% <br> 1–2 |
+| 800                                           | 24–31% <br> 45–56 | 22–28% <br> 39–51 | 13–18% <br> 23–33 | 3–6% <br> 1–10 | 8–13% <br> 15–23 | 3–6% <br> 1–11 | 5–8% <br> 8–14  | 2–5% <br> 1–8 | 2–4% <br> 1–2 |
+| 1,000                                         | 25–30% <br> 45–56 | 22–28% <br> 40–51 | 13–18% <br> 23–32 | 3–6% <br> 2–10 | 9–12% <br> 15–22 | 3–6% <br> 1–10 | 5–8% <br> 8–14  | 2–4% <br> 1–8 | 2–4% <br> 1–2 |
+| 1,200                                         | 25–30% <br> 45–55 | 23–28% <br> 40–51 | 13–17% <br> 24–32 | 3–5% <br> 2–10 | 9–12% <br> 16–22 | 3–6% <br> 2–10 | 5–8% <br> 9–14  | 2–4% <br> 1–8 | 2–3% <br> 1–2 |
+| 1,500                                         | 25–30% <br> 46–55 | 23–27% <br> 40–50 | 13–17% <br> 24–31 | 3–5% <br> 2–9  | 9–12% <br> 16–22 | 3–6% <br> 2–10 | 5–7% <br> 9–13  | 2–4% <br> 1–8 | 2–3% <br> 1–2 |
+| 2,000                                         | 25–29% <br> 46–54 | 23–27% <br> 41–50 | 14–17% <br> 25–31 | 3–5% <br> 2–9  | 9–12% <br> 16–22 | 4–5% <br> 2–10 | 5–7% <br> 9–13  | 3–4% <br> 1–7 | 2–3% <br> 1–2 |
+| 3,000                                         | 26–29% <br> 47–54 | 24–27% <br> 42–49 | 14–17% <br> 25–30 | 4–5% <br> 2–9  | 9–11% <br> 17–21 | 4–5% <br> 2–9  | 5–7% <br> 9–13  | 3–4% <br> 1–4 | 2–3% <br> 1–2 |
+| 5,000                                         | 26–29% <br> 48–53 | 24–26% <br> 42–48 | 14–16% <br> 26–30 | 4–5% <br> 2–9  | 9–11% <br> 17–20 | 4–5% <br> 3–9  | 5–7% <br> 10–12 | 3–4% <br> 1–2 | 2–3% <br> 1–2 |
+| Previous Election Result (8–9 September 2013) | 30.8% <br> 55     | 26.8% <br> 48     | 16.3% <br> 29     | 5.6% <br> 10   | 5.5% <br> 10     | 5.2% <br> 9    | 4.1% <br> 7     | 2.8% <br> 1   | 1.1% <br> 0   |
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Norwegian Parliament (95% confidence interval)
++ **Ap:** Arbeiderpartiet
++ **H:** Høyre
++ **FrP:** Fremskrittspartiet
++ **KrF:** Kristelig Folkeparti
++ **Sp:** Senterpartiet
++ **V:** Venstre
++ **SV:** Sosialistisk Venstreparti
++ **MDG:** Miljøpartiet de Grønne
++ **R:** Rødt
+
 #### Iceland, 28 October 2017
 
 | Sample Size                                | D                 | V                 | P              | B               | C             | A           | S               | F             | T           | R           | M               |
