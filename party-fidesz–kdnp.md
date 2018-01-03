@@ -60,13 +60,13 @@ Last result: **133** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 159 | 155–166 | 153–167 | 153–169 | 151–170 |
+| N/A | [Poll Average](average.html) | 159 | 155–166 | 154–167 | 153–169 | 151–170 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 159 | 158–160 | 157–160 | 157–161 | 156–162 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 158 | 156–161 | 156–161 | 155–162 | 155–163 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 156 | 154–159 | 153–161 | 153–161 | 151–162 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 164 | 162–167 | 161–168 | 161–169 | 159–171 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 166 | 163–169 | 163–169 | 162–170 | 160–171 |
-| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 156 | 153–158 | 152–158 | 150–159 | 149–160 |
+| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 156 | 153–158 | 152–159 | 151–159 | 149–160 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 156 | 154–159 | 153–160 | 152–160 | 151–162 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 157 | 155–159 | 155–159 | 154–159 | 153–160 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 157 | 155–160 | 154–161 | 154–162 | 153–163 |
@@ -97,15 +97,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 0% | 100% |  |
 | 148 | 0% | 100% |  |
 | 149 | 0.1% | 100% |  |
-| 150 | 0.4% | 99.9% |  |
-| 151 | 0.4% | 99.5% |  |
-| 152 | 1.0% | 99.1% |  |
-| 153 | 3% | 98% |  |
-| 154 | 4% | 95% |  |
-| 155 | 7% | 91% |  |
-| 156 | 10% | 84% |  |
-| 157 | 11% | 74% |  |
-| 158 | 11% | 63% |  |
+| 150 | 0.2% | 99.9% |  |
+| 151 | 0.6% | 99.7% |  |
+| 152 | 1.1% | 99.1% |  |
+| 153 | 2% | 98% |  |
+| 154 | 4% | 96% |  |
+| 155 | 8% | 91% |  |
+| 156 | 9% | 84% |  |
+| 157 | 12% | 75% |  |
+| 158 | 10% | 62% |  |
 | 159 | 15% | 52% | Median |
 | 160 | 5% | 37% |  |
 | 161 | 3% | 32% |  |

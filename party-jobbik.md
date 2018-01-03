@@ -56,13 +56,13 @@ Last result: **23** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–22 | 12–24 | 12–25 | 11–26 |
+| N/A | [Poll Average](average.html) | 14 | 13–21 | 12–22 | 12–24 | 11–26 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 14 | 13–16 | 13–16 | 12–16 | 11–18 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 22 | 20–26 | 20–26 | 19–27 | 19–28 |
+| [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 22 | 20–26 | 20–26 | 20–27 | 19–28 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 13–16 | 13–17 | 12–17 | 11–18 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 17 | 15–18 | 15–18 | 15–19 | 15–19 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
@@ -85,15 +85,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 8% | 25% |  |
 | 17 | 2% | 17% |  |
 | 18 | 0.3% | 15% |  |
-| 19 | 0.4% | 14% |  |
-| 20 | 1.1% | 14% |  |
-| 21 | 1.3% | 13% |  |
-| 22 | 6% | 11% |  |
-| 23 | 0.5% | 6% | Last Result |
-| 24 | 1.4% | 5% |  |
-| 25 | 1.5% | 4% |  |
-| 26 | 2% | 2% |  |
-| 27 | 0.3% | 0.5% |  |
+| 19 | 0.3% | 14% |  |
+| 20 | 1.5% | 14% |  |
+| 21 | 4% | 12% |  |
+| 22 | 4% | 9% |  |
+| 23 | 1.0% | 5% | Last Result |
+| 24 | 1.3% | 4% |  |
+| 25 | 0.9% | 2% |  |
+| 26 | 1.0% | 1.5% |  |
+| 27 | 0.2% | 0.5% |  |
 | 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
