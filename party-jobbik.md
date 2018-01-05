@@ -58,7 +58,7 @@ Last result: **23** seats (General Election of 6 April 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–21 | 12–22 | 12–24 | 11–27 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
-| [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 14 | 13–16 | 13–16 | 12–16 | 11–18 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
@@ -66,7 +66,7 @@ Last result: **23** seats (General Election of 6 April 2014)
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 13–16 | 13–17 | 12–17 | 11–18 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 17 | 15–18 | 15–18 | 15–19 | 15–19 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
-| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 18 | 16–20 | 15–20 | 15–20 | 14–22 |
+| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 
 ### Probability Mass Function
 

@@ -73,7 +73,7 @@ Last result: **4** seats (General Election of 6 April 2014)
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
+| [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 
 ### Probability Mass Function
 
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 24% | 78% |  |
 | 7 | 22% | 54% | Median |
 | 8 | 14% | 32% |  |
-| 9 | 17% | 19% |  |
+| 9 | 16% | 18% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
