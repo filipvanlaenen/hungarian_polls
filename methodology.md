@@ -154,6 +154,43 @@ used by polling firms. For each of the sample sizes, the 95% confidence
 intervals for the number of seats for each parties are compared to the actual
 number of seats the parties received.
 
+The results show, quite naturally, that the seat projections are more accurate
+for electoral systems that are more proportional. But even for electoral
+systems, the seat projections stay relatively close to the actual seat
+distribution of the election. Larger parties, for which even non-proportional
+electoral systems often will behave in a fairly linear way, get more accurate
+results than small parties, which will often strugle with e.g. local or
+national electoral thresholds.
+
+#### United Kingdom, 8 June 2017
+
+| Sample Size                           | CON                 | LAB                                  | UKIP         | LIBDEM          | SNP                             | GREEN                        | PC            |
+|:-------------------------------------:|:-------------------:|:------------------------------------:|:------------:|:---------------:|:-------------------------------:|:----------------------------:|:-------------:|
+| Election Result (8 June 2017)         | 42.4% <br> 318      | 40.0% <br> 262                       | 1.8% <br> 0  | 7.4% <br> 12    | 3.0% <br> 35                    | 1.6% <br> 1                  | 0.5% <br> 4   |
+| 600                                   | 38–46% <br> 278–348 | 36–44% <br> 241–331                  | 1–3% <br> 0  | 6–10% <br> 1–19 | 2–5% <br> 0–54                  | 1–3% <br> <strike>0</strike> | 0–1% <br> 0–7 |
+| 800                                   | 39–46% <br> 283–343 | 37–43% <br> 247–327                  | 1–3% <br> 0  | 6–9% <br> 2–17  | 2–4% <br> 0–52                  | 1–3% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 1000                                  | 39–45% <br> 287–340 | 37–43% <br> 251–322                  | 1–3% <br> 0  | 6–9% <br> 2–16  | 2–4% <br> 0–51                  | 1–3% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 1200                                  | 40–45% <br> 291–338 | 37–43% <br> 254–319                  | 1–3% <br> 0  | 6–9% <br> 2–15  | 2–4% <br> 1–50                  | 1–2% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 1500                                  | 40–45% <br> 294–335 | 38–43% <br> 257–316                  | 1–3% <br> 0  | 6–9% <br> 3–15  | 2–4% <br> 1–48                  | 1–2% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 2000                                  | 40–45% <br> 300–332 | 38–42% <br> <strike>263–312</strike> | 1–2% <br> 0  | 6–9% <br> 3–15  | 2–4% <br> 1–41                  | 1–2% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 3000                                  | 41–44% <br> 304–328 | 38–42% <br> <strike>269–307</strike> | 1–2% <br> 0  | 7–8% <br> 4–14  | 2–4% <br> 2–35                  | 1–2% <br> <strike>0</strike> | 0–1% <br> 0–5 |
+| 5000                                  | 41–44% <br> 308–326 | 39–41% <br> <strike>275–303</strike> | 1–2% <br> 0  | 7–8% <br> 5–13  | 3–4% <br> <strike>2–29</strike> | 1–2% <br> <strike>0</strike> | 0–1% <br> 0–4 |
+| Previous Election Result (7 May 2015) | 36.9% <br> 331      | 30.4% <br> 232                       | 12.6% <br> 1 | 7.9% <br> 8     | 4.7% <br> 56                    | 3.8% <br> 1                  | 0.6% <br> 3   |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the House of Commons (95% confidence interval)
++ **CON:** Conservative Party
++ **LAB:** Labour Party
++ **UKIP:** UK Independence Party
++ **LIBDEM:** Liberal Democrats
++ **SNP:** Scottish National Party
++ **GREEN:** Green Party
++ **PC:** Plaid Cymru
++ **BNP:** British National Party
+
 #### Norway, 11 September 2017
 
 | Sample Size                                   | Ap                | H                 | FrP               | KrF            | Sp               | V              | SV              | MDG           | R             |
