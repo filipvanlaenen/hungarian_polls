@@ -16,7 +16,7 @@ The table below lists the polls on which the average is based. They are the most
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 53–59% <br> 161–169 | 9–13% <br> 9–13 | 5–8% <br> 0–7 | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 11–15% <br> 11–15 | 5–8% <br> 0–7 | 0–1% <br> 0 | 2–4% <br> 0 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 57–62% <br> 162–170 | 8–12% <br> 8–11 | 6–9% <br> 5–8 | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 13–17% <br> 13–17 | 4–6% <br> 0–6 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 46–53% <br> 150–159 | 5–9% <br> 5–8 | 6–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 19–24% <br> 19–28 | 5–9% <br> 5–9 | 1–2% <br> 0 | 2–4% <br> 0 |
-| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 152–160 | 12–16% <br> 11–16 | 4–7% <br> 0–5 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 13–17% <br> 12–17 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 152–160 | 12–16% <br> 11–16 | 4–7% <br> 0–6 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 13–17% <br> 12–17 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -326,9 +326,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fidesz–kdnp">Fidesz–KDNP</a> | 133 | 159 | 155–166 |154–167 | 153–169 | 151–170 |
+| <a href="#fidesz–kdnp">Fidesz–KDNP</a> | 133 | 159 | 155–166 |153–167 | 153–169 | 151–170 |
 | <a href="#mszp">MSZP</a> | 29 | 11 | 7–15 |6–16 | 6–16 | 5–18 |
-| <a href="#dk">DK</a> | 4 | 7 | 0–9 |0–9 | 0–9 | 0–10 |
+| <a href="#dk">DK</a> | 4 | 7 | 4–9 |0–9 | 0–9 | 0–10 |
 | <a href="#együtt">Együtt</a> | 3 | 0 | 0 |0 | 0 | 0 |
 | <a href="#mlp">MLP</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#párbeszéd">Párbeszéd</a> | 1 | 0 | 0 |0 | 0 | 0 |
@@ -363,16 +363,16 @@ Only polls for which at least the sample size has been published are included in
 | 148 | 0% | 100% |  |
 | 149 | 0.1% | 100% |  |
 | 150 | 0.3% | 99.9% |  |
-| 151 | 0.5% | 99.6% |  |
-| 152 | 1.1% | 99.1% |  |
-| 153 | 2% | 98% |  |
-| 154 | 4% | 96% |  |
-| 155 | 7% | 92% |  |
-| 156 | 9% | 85% |  |
-| 157 | 12% | 75% |  |
-| 158 | 10% | 63% |  |
-| 159 | 16% | 54% | Median |
-| 160 | 6% | 37% |  |
+| 151 | 0.6% | 99.5% |  |
+| 152 | 1.3% | 98.9% |  |
+| 153 | 3% | 98% |  |
+| 154 | 4% | 95% |  |
+| 155 | 7% | 91% |  |
+| 156 | 10% | 84% |  |
+| 157 | 12% | 74% |  |
+| 158 | 8% | 62% |  |
+| 159 | 17% | 54% | Median |
+| 160 | 5% | 37% |  |
 | 161 | 3% | 32% |  |
 | 162 | 3% | 29% |  |
 | 163 | 5% | 26% |  |
@@ -434,12 +434,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 1.3% | 89% | Last Result |
-| 5 | 10% | 87% |  |
+| 0 | 10% | 100% |  |
+| 1 | 0% | 90% |  |
+| 2 | 0% | 90% |  |
+| 3 | 0% | 90% |  |
+| 4 | 0.8% | 90% | Last Result |
+| 5 | 11% | 89% |  |
 | 6 | 24% | 78% |  |
 | 7 | 22% | 54% | Median |
 | 8 | 14% | 32% |  |
@@ -493,12 +493,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 1.2% | 99.8% |  |
-| 12 | 6% | 98.6% |  |
+| 12 | 6% | 98.7% |  |
 | 13 | 17% | 93% |  |
 | 14 | 35% | 76% | Median |
-| 15 | 16% | 41% |  |
-| 16 | 8% | 25% |  |
-| 17 | 2% | 17% |  |
+| 15 | 17% | 41% |  |
+| 16 | 8% | 24% |  |
+| 17 | 2% | 16% |  |
 | 18 | 0.3% | 15% |  |
 | 19 | 0.5% | 14% |  |
 | 20 | 2% | 14% |  |
@@ -526,11 +526,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 92% |  |
 | 4 | 0% | 92% |  |
 | 5 | 15% | 92% | Last Result |
-| 6 | 18% | 77% |  |
-| 7 | 30% | 59% | Median |
-| 8 | 15% | 29% |  |
-| 9 | 13% | 15% |  |
-| 10 | 1.2% | 1.5% |  |
+| 6 | 19% | 77% |  |
+| 7 | 29% | 59% | Median |
+| 8 | 14% | 30% |  |
+| 9 | 14% | 15% |  |
+| 10 | 1.3% | 2% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
@@ -563,7 +563,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fidesz–KDNP | 133 | 159 | 100% | 155–166 | 154–167 | 153–169 | 151–170 |
+| Fidesz–KDNP | 133 | 159 | 100% | 155–166 | 153–167 | 153–169 | 151–170 |
 | DK – Együtt – MLP – MSZP – Párbeszéd | 38 | 17 | 0% | 14–21 | 13–22 | 12–22 | 11–24 |
 
 ### Fidesz–KDNP
@@ -588,16 +588,16 @@ Only polls for which at least the sample size has been published are included in
 | 148 | 0% | 100% |  |
 | 149 | 0.1% | 100% |  |
 | 150 | 0.3% | 99.9% |  |
-| 151 | 0.5% | 99.6% |  |
-| 152 | 1.1% | 99.1% |  |
-| 153 | 2% | 98% |  |
-| 154 | 4% | 96% |  |
-| 155 | 7% | 92% |  |
-| 156 | 9% | 85% |  |
-| 157 | 12% | 75% |  |
-| 158 | 10% | 63% |  |
-| 159 | 16% | 54% | Median |
-| 160 | 6% | 37% |  |
+| 151 | 0.6% | 99.5% |  |
+| 152 | 1.3% | 98.9% |  |
+| 153 | 3% | 98% |  |
+| 154 | 4% | 95% |  |
+| 155 | 7% | 91% |  |
+| 156 | 10% | 84% |  |
+| 157 | 12% | 74% |  |
+| 158 | 8% | 62% |  |
+| 159 | 17% | 54% | Median |
+| 160 | 5% | 37% |  |
 | 161 | 3% | 32% |  |
 | 162 | 3% | 29% |  |
 | 163 | 5% | 26% |  |
@@ -620,12 +620,12 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0.2% | 99.9% |  |
 | 11 | 0.5% | 99.8% |  |
 | 12 | 2% | 99.3% |  |
-| 13 | 7% | 97% |  |
-| 14 | 10% | 91% |  |
-| 15 | 10% | 81% |  |
-| 16 | 15% | 72% |  |
-| 17 | 20% | 56% |  |
-| 18 | 8% | 37% | Median |
+| 13 | 6% | 97% |  |
+| 14 | 9% | 92% |  |
+| 15 | 10% | 83% |  |
+| 16 | 16% | 73% |  |
+| 17 | 19% | 57% |  |
+| 18 | 9% | 38% | Median |
 | 19 | 9% | 29% |  |
 | 20 | 7% | 20% |  |
 | 21 | 6% | 13% |  |
