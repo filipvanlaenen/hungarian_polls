@@ -60,14 +60,14 @@ Last result: **133** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 159 | 155–166 | 154–167 | 153–169 | 151–170 |
+| N/A | [Poll Average](average.html) | 159 | 155–166 | 153–167 | 153–169 | 151–170 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 159 | 158–160 | 157–160 | 157–161 | 156–162 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 159 | 157–161 | 156–161 | 156–162 | 155–163 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 156 | 154–159 | 153–161 | 153–161 | 151–162 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 164 | 162–167 | 161–168 | 161–169 | 159–171 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 166 | 163–169 | 163–169 | 162–170 | 160–171 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 156 | 153–158 | 151–159 | 150–159 | 149–160 |
-| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 156 | 154–159 | 153–160 | 152–160 | 151–162 |
+| [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 156 | 153–159 | 153–160 | 152–160 | 151–162 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 157 | 155–159 | 155–159 | 154–159 | 153–160 |
 | [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 157 | 155–160 | 154–161 | 154–162 | 153–163 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 155 | 153–158 | 152–158 | 151–159 | 150–161 |
@@ -98,16 +98,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 148 | 0% | 100% |  |
 | 149 | 0.1% | 100% |  |
 | 150 | 0.3% | 99.9% |  |
-| 151 | 0.5% | 99.6% |  |
-| 152 | 1.1% | 99.1% |  |
-| 153 | 2% | 98% |  |
-| 154 | 4% | 96% |  |
-| 155 | 7% | 92% |  |
-| 156 | 9% | 85% |  |
-| 157 | 12% | 75% |  |
-| 158 | 10% | 63% |  |
-| 159 | 16% | 54% | Median |
-| 160 | 6% | 37% |  |
+| 151 | 0.6% | 99.5% |  |
+| 152 | 1.3% | 98.9% |  |
+| 153 | 3% | 98% |  |
+| 154 | 4% | 95% |  |
+| 155 | 7% | 91% |  |
+| 156 | 10% | 84% |  |
+| 157 | 12% | 74% |  |
+| 158 | 8% | 62% |  |
+| 159 | 17% | 54% | Median |
+| 160 | 5% | 37% |  |
 | 161 | 3% | 32% |  |
 | 162 | 3% | 29% |  |
 | 163 | 5% | 26% |  |
