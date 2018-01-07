@@ -13,7 +13,7 @@ The table below lists all polls registered and analyzed so far.
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 46–53% <br> 150–159 | 5–9% <br> 5–8 | 6–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 19–24% <br> 19–28 | 5–9% <br> 5–9 | 1–2% <br> 0 | 2–4% <br> 0 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 152–160 | 12–16% <br> 11–16 | 4–7% <br> 0–6 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 13–17% <br> 12–17 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 46–50% <br> 154–159 | 8–10% <br> 8–11 | 7–9% <br> 7–9 | 1–3% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 14–18% <br> 15–19 | 7–9% <br> 7–9 | 1–3% <br> 0 | 3–5% <br> 0 |
-| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 48–54% <br> 154–162 | 12–17% <br> 12–16 | 4–7% <br> 0–6 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 15–20 | 6–9% <br> 5–9 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 48–54% <br> 154–162 | 12–17% <br> 12–17 | 4–7% <br> 0–6 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 15–20 | 6–9% <br> 5–9 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 46–52% <br> 151–159 | 10–14% <br> 10–14 | 8–12% <br> 8–12 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 16–21% <br> 15–20 | 5–8% <br> 0–7 | 1–2% <br> 0 | 1–3% <br> 0 |
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 
