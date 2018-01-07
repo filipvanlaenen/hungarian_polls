@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sat, 06 Jan 2018 20:14:32 +0100</pubDate>
+    <pubDate>Sun, 07 Jan 2018 11:37:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 1–18 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-18-NézőpontIntézet.html#seats</link>
@@ -172,12 +172,12 @@
     <item>
       <title>Opinion Poll by Publicus Research, 11–15 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 15–20 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–17 seats&lt;/li&gt;&lt;li&gt;Jobbik: 15–20 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch-seats.png"
-        length="109719"
+        length="109455"
         type="image/png"/>
-      <pubDate>Sat, 06 Jan 2018 20:14:32 +0100</pubDate>
-      <dc:date>2018-01-06T20:14:32.919922+01:00</dc:date>
+      <pubDate>Sun, 07 Jan 2018 11:37:36 +0100</pubDate>
+      <dc:date>2018-01-07T11:37:36.935067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 11–15 November 2017 – Voting Intentions</title>
@@ -186,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.png"
         length="188128"
         type="image/png"/>
-      <pubDate>Sat, 06 Jan 2018 20:14:32 +0100</pubDate>
-      <dc:date>2018-01-06T20:14:32.919922+01:00</dc:date>
+      <pubDate>Sun, 07 Jan 2018 11:37:36 +0100</pubDate>
+      <dc:date>2018-01-07T11:37:36.935067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 6–14 November 2017 – Seat Projections</title>
@@ -209,6 +209,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-01-06T20:14:32.919922+01:00</dc:date>
+    <dc:date>2018-01-07T11:37:36.935067+01:00</dc:date>
   </channel>
 </rss>
