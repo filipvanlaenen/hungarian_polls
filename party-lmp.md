@@ -53,11 +53,11 @@ Last result: **5** seats (General Election of 6 April 2014)
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 6 | 0–7 | 0–7 | 0–7 | 0–8 |
-| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [11–15 November 2017](2017-11-15-PublicusResearch.html) | Publicus Research | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [6–14 November 2017](2017-11-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
 
 ### Probability Mass Function
@@ -68,12 +68,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 0% | 92% |  |
-| 2 | 0% | 92% |  |
-| 3 | 0% | 92% |  |
-| 4 | 0% | 92% |  |
-| 5 | 15% | 92% | Last Result |
+| 0 | 9% | 100% |  |
+| 1 | 0% | 91% |  |
+| 2 | 0% | 91% |  |
+| 3 | 0% | 91% |  |
+| 4 | 0.1% | 91% |  |
+| 5 | 13% | 91% | Last Result |
 | 6 | 19% | 77% |  |
 | 7 | 29% | 59% | Median |
 | 8 | 14% | 30% |  |

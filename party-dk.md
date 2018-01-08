@@ -68,7 +68,7 @@ Last result: **4** seats (General Election of 6 April 2014)
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
-| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 7 | 6–8 | 5–8 | 5–8 | 0–9 |
+| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
