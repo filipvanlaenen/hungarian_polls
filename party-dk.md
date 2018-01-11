@@ -10,10 +10,11 @@ Last result: **25.6%** (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.1–9.1% | 4.7–9.5% | 4.4–9.8% | 3.9–10.4% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.0–9.1% | 4.6–9.5% | 4.3–9.8% | 3.8–10.4% |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
+| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 6.9% | N/A | N/A | N/A | N/A |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 6.9% | 6.1–8.0% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -31,11 +32,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 15% | 96% |  |
-| 5.5–6.5% | 22% | 81% |  |
-| 6.5–7.5% | 21% | 59% | Median |
-| 7.5–8.5% | 19% | 38% |  |
-| 8.5–9.5% | 15% | 19% |  |
+| 4.5–5.5% | 18% | 96% |  |
+| 5.5–6.5% | 25% | 78% |  |
+| 6.5–7.5% | 20% | 53% | Median |
+| 7.5–8.5% | 15% | 33% |  |
+| 8.5–9.5% | 14% | 18% |  |
 | 9.5–10.5% | 4% | 4% |  |
 | 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -63,10 +64,11 @@ Last result: **4** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–9 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 6 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 9 | 8–10 | 8–10 | 8–11 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
+| [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
 | [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -83,16 +85,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 0% | 90% |  |
-| 2 | 0% | 90% |  |
-| 3 | 0% | 90% |  |
-| 4 | 0.8% | 90% | Last Result |
-| 5 | 12% | 89% |  |
-| 6 | 22% | 77% |  |
-| 7 | 22% | 54% | Median |
-| 8 | 14% | 32% |  |
-| 9 | 16% | 18% |  |
+| 0 | 12% | 100% |  |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0% | 88% |  |
+| 4 | 0.9% | 88% | Last Result |
+| 5 | 15% | 87% |  |
+| 6 | 25% | 73% | Median |
+| 7 | 19% | 47% |  |
+| 8 | 9% | 28% |  |
+| 9 | 17% | 18% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
