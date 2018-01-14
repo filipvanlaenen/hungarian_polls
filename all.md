@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | MSZP | DK | Együtt | MLP | Párbeszéd | Jobbik | LMP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–55% <br> 153–159 | 12–16% <br> 13–14 | 5–8% <br> 5–6 | 1–2% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–18 | 5–9% <br> 5–6 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 54–60% <br> 161–171 | 9–13% <br> 9–14 | 4–7% <br> 0–6 | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 14–19% <br> 14–20 | 4–7% <br> 0–6 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 49–53% <br> 157–161 | 7–9% <br> 7–9 | 8–10% <br> 8–10 | 1–3% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 12–16% <br> 13–16 | 8–10% <br> 8–10 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 49–55% <br> 156–162 | 10–14% <br> 10–14 | 6–10% <br> 6–10 | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 12–16% <br> 12–16 | 6–9% <br> 5–8 | 0–1% <br> 0 | 1–3% <br> 0 |
