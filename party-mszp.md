@@ -63,9 +63,9 @@ Last result: **29** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–15 | 8–16 | 7–17 | 6–19 |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 13–14 | 13–14 | 13–14 | 11–16 |
-| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 10–13 | 10–13 | 9–14 | 9–14 |
+| N/A | [Poll Average](average.html) | 11 | 8–15 | 8–16 | 7–17 | 6–18 |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 8 | 7–9 | 7–9 | 6–10 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 15 | 14–17 | 13–18 | 13–19 | 12–20 |
@@ -90,16 +90,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 4% | 99.2% |  |
 | 8 | 21% | 95% |  |
 | 9 | 10% | 75% |  |
-| 10 | 11% | 65% |  |
+| 10 | 10% | 65% |  |
 | 11 | 9% | 54% | Median |
-| 12 | 11% | 45% |  |
-| 13 | 14% | 34% |  |
-| 14 | 8% | 20% |  |
-| 15 | 5% | 12% |  |
-| 16 | 4% | 6% |  |
-| 17 | 1.4% | 3% |  |
+| 12 | 12% | 45% |  |
+| 13 | 9% | 32% |  |
+| 14 | 8% | 23% |  |
+| 15 | 8% | 15% |  |
+| 16 | 4% | 7% |  |
+| 17 | 2% | 3% |  |
 | 18 | 0.6% | 1.1% |  |
-| 19 | 0.4% | 0.5% |  |
+| 19 | 0.3% | 0.5% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |

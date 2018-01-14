@@ -58,8 +58,8 @@ Last result: **23** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–20 | 13–22 | 12–22 | 12–25 |
-| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 17 | 15–17 | 14–18 | 14–18 | 13–18 |
-| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16 | 15–18 | 14–19 | 14–20 | 13–20 |
+| [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
+| [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
 | [6–14 December 2017](2017-12-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
@@ -82,13 +82,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
 | 12 | 2% | 99.8% |  |
-| 13 | 10% | 97% |  |
-| 14 | 28% | 87% |  |
-| 15 | 18% | 59% | Median |
-| 16 | 10% | 41% |  |
-| 17 | 5% | 32% |  |
-| 18 | 11% | 27% |  |
-| 19 | 2% | 15% |  |
+| 13 | 11% | 97% |  |
+| 14 | 27% | 87% |  |
+| 15 | 20% | 60% | Median |
+| 16 | 14% | 40% |  |
+| 17 | 6% | 25% |  |
+| 18 | 3% | 19% |  |
+| 19 | 3% | 16% |  |
 | 20 | 3% | 13% |  |
 | 21 | 5% | 10% |  |
 | 22 | 4% | 5% |  |
