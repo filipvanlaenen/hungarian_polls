@@ -8,7 +8,17 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sun, 14 Jan 2018 10:12:30 +0100</pubDate>
+    <pubDate>Sun, 14 Jan 2018 17:47:13 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 13–18 seats&lt;/li&gt;&lt;li&gt;LMP: 5–8 seats&lt;/li&gt;&lt;li&gt;DK: 0–7 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány-seats.png"
+        length="119233"
+        type="image/png"/>
+      <pubDate>Sun, 14 Jan 2018 17:47:13 +0100</pubDate>
+      <dc:date>2018-01-14T17:47:13.780485+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.html</link>
@@ -16,18 +26,18 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.png"
         length="203792"
         type="image/png"/>
-      <pubDate>Sun, 14 Jan 2018 10:12:30 +0100</pubDate>
-      <dc:date>2018-01-14T10:12:30.112073+01:00</dc:date>
+      <pubDate>Sun, 14 Jan 2018 17:47:13 +0100</pubDate>
+      <dc:date>2018-01-14T17:47:13.780485+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 10–20 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 161–171 seats&lt;/li&gt;&lt;li&gt;MSZP: 9–14 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–20 seats&lt;/li&gt;&lt;li&gt;LMP: 0–6 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 161–171 seats&lt;/li&gt;&lt;li&gt;MSZP: 9–13 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–19 seats&lt;/li&gt;&lt;li&gt;LMP: 0–6 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet-seats.png"
-        length="107379"
+        length="107081"
         type="image/png"/>
-      <pubDate>Sat, 13 Jan 2018 16:16:05 +0100</pubDate>
-      <dc:date>2018-01-13T16:16:05.548531+01:00</dc:date>
+      <pubDate>Sun, 14 Jan 2018 10:34:55 +0100</pubDate>
+      <dc:date>2018-01-14T10:34:55.46579+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 10–20 December 2017 – Voting Intentions</title>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet.png"
         length="184259"
         type="image/png"/>
-      <pubDate>Sat, 13 Jan 2018 16:16:05 +0100</pubDate>
-      <dc:date>2018-01-13T16:16:05.548531+01:00</dc:date>
+      <pubDate>Sun, 14 Jan 2018 10:34:55 +0100</pubDate>
+      <dc:date>2018-01-14T10:34:55.46579+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 1–18 December 2017 – Seat Projections</title>
@@ -259,6 +269,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-01-14T10:12:30.112073+01:00</dc:date>
+    <dc:date>2018-01-14T17:47:13.780485+01:00</dc:date>
   </channel>
 </rss>
