@@ -71,7 +71,7 @@ Last result: **29** seats (General Election of 6 April 2014)
 | [8–13 December 2017](2017-12-13-PublicusResearch.html) | Publicus Research | 15 | 14–17 | 13–18 | 13–19 | 12–20 |
 | [6–12 December 2017](2017-12-12-IránytűIntézet.html) | Iránytű Intézet | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [18–30 November 2017](2017-11-30-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [1–30 November 2017](2017-11-30-Medián.html) | Medián <br> hvg.hu | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [24–30 November 2017](2017-11-30-IránytűIntézet.html) | Iránytű Intézet | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [20–28 November 2017](2017-11-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [1–19 November 2017](2017-11-19-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.8% | 100% |  |
 | 7 | 5% | 99.2% |  |
 | 8 | 18% | 94% |  |
-| 9 | 11% | 76% |  |
-| 10 | 11% | 65% |  |
+| 9 | 12% | 76% |  |
+| 10 | 10% | 64% |  |
 | 11 | 9% | 54% | Median |
 | 12 | 12% | 45% |  |
 | 13 | 9% | 32% |  |
