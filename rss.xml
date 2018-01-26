@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Thu, 25 Jan 2018 13:38:30 +0100</pubDate>
+    <pubDate>Thu, 25 Jan 2018 22:52:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 1–20 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-20-ZRIZáveczResearch.html#seats</link>
@@ -54,10 +54,10 @@
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 13–18 seats&lt;/li&gt;&lt;li&gt;LMP: 5–8 seats&lt;/li&gt;&lt;li&gt;DK: 0–7 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány-seats.png"
-        length="119233"
+        length="119768"
         type="image/png"/>
-      <pubDate>Sun, 14 Jan 2018 17:47:13 +0100</pubDate>
-      <dc:date>2018-01-14T17:47:13.780485+01:00</dc:date>
+      <pubDate>Thu, 25 Jan 2018 22:52:36 +0100</pubDate>
+      <dc:date>2018-01-25T22:52:36.931871+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.png"
         length="203792"
         type="image/png"/>
-      <pubDate>Sun, 14 Jan 2018 17:47:13 +0100</pubDate>
-      <dc:date>2018-01-14T17:47:13.780485+01:00</dc:date>
+      <pubDate>Thu, 25 Jan 2018 22:52:36 +0100</pubDate>
+      <dc:date>2018-01-25T22:52:36.931871+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 10–20 December 2017 – Seat Projections</title>
@@ -309,6 +309,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-01-25T13:38:30.584817+01:00</dc:date>
+    <dc:date>2018-01-25T22:52:36.931871+01:00</dc:date>
   </channel>
 </rss>
