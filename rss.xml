@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Mon, 29 Jan 2018 18:01:08 +0100</pubDate>
+    <pubDate>Tue, 30 Jan 2018 13:17:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 1–20 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-20-ZRIZáveczResearch.html#seats</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-18-NézőpontIntézet-seats.png"
         length="107294"
         type="image/png"/>
-      <pubDate>Mon, 29 Jan 2018 18:01:08 +0100</pubDate>
-      <dc:date>2018-01-29T18:01:08.659022+01:00</dc:date>
+      <pubDate>Tue, 30 Jan 2018 13:17:44 +0100</pubDate>
+      <dc:date>2018-01-30T13:17:44.867402+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 3–18 January 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-18-NézőpontIntézet.png"
         length="193226"
         type="image/png"/>
-      <pubDate>Mon, 29 Jan 2018 18:01:08 +0100</pubDate>
-      <dc:date>2018-01-29T18:01:08.659022+01:00</dc:date>
+      <pubDate>Tue, 30 Jan 2018 13:17:44 +0100</pubDate>
+      <dc:date>2018-01-30T13:17:44.867402+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 10–16 January 2018 – Seat Projections</title>
@@ -329,6 +329,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-01-29T18:01:08.659022+01:00</dc:date>
+    <dc:date>2018-01-30T13:17:44.867402+01:00</dc:date>
   </channel>
 </rss>
