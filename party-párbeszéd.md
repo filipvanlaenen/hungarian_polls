@@ -17,7 +17,7 @@ Last result: **25.6%** (General Election of 6 April 2014)
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0.9% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.1% |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.0% | N/A | N/A | N/A | N/A |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
@@ -82,7 +82,7 @@ Last result: **1** seats (General Election of 6 April 2014)
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 0 | 0 | 0 | 0 | 0 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 0 | 0 | 0 | 0 | 0 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 0 | 0 | 0 | 0 | 0 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 0 | 0 | 0 | 0 | 0 |

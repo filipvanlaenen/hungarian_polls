@@ -17,7 +17,7 @@ Last result: **20.2%** (General Election of 6 April 2014)
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 12.6% | 11.7–13.6% | 11.4–13.9% | 11.2–14.1% | 10.8–14.6% |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 15.7% | 14.4–17.3% | 14.0–17.7% | 13.6–18.1% | 13.0–18.9% |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.5% |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 13.9% | 13.0–15.0% | 12.7–15.3% | 12.5–15.5% | 12.1–16.0% |
@@ -48,7 +48,7 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 14% | 40% |  |
 | 17.5–18.5% | 8% | 26% |  |
 | 18.5–19.5% | 4% | 18% |  |
-| 19.5–20.5% | 2% | 13% | Last Result |
+| 19.5–20.5% | 3% | 13% | Last Result |
 | 20.5–21.5% | 3% | 11% |  |
 | 21.5–22.5% | 4% | 8% |  |
 | 22.5–23.5% | 3% | 4% |  |
@@ -66,14 +66,14 @@ Last result: **23** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–20 | 13–20 | 12–21 | 12–22 |
-| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 18 | 14–20 | 14–20 | 12–20 | 12–20 |
+| N/A | [Poll Average](average.html) | 16 | 13–21 | 13–25 | 12–25 | 12–25 |
+| [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 16 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 14 | 14 | 14–15 | 13–16 | 12–16 |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 20 | 15–21 | 13–22 | 13–22 | 13–22 |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 18 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet |  |  |  |  |  |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 25 | 21–25 | 21–25 | 21–25 | 19–27 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
@@ -96,18 +96,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% |  |
-| 12 | 5% | 99.7% |  |
-| 13 | 8% | 95% |  |
-| 14 | 21% | 87% |  |
-| 15 | 11% | 65% |  |
-| 16 | 13% | 54% | Median |
-| 17 | 11% | 41% |  |
-| 18 | 15% | 30% |  |
-| 19 | 2% | 16% |  |
-| 20 | 10% | 14% |  |
-| 21 | 3% | 4% |  |
-| 22 | 1.4% | 1.4% |  |
-| 23 | 0% | 0% | Last Result |
+| 11 | 0.2% | 100% |  |
+| 12 | 4% | 99.7% |  |
+| 13 | 7% | 96% |  |
+| 14 | 19% | 89% |  |
+| 15 | 14% | 70% |  |
+| 16 | 16% | 56% | Median |
+| 17 | 14% | 41% |  |
+| 18 | 10% | 26% |  |
+| 19 | 4% | 17% |  |
+| 20 | 0.5% | 13% |  |
+| 21 | 3% | 12% |  |
+| 22 | 0% | 10% |  |
+| 23 | 3% | 10% | Last Result |
+| 24 | 0.5% | 7% |  |
+| 25 | 6% | 6% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 
