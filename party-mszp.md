@@ -78,7 +78,7 @@ Last result: **29** seats (General Election of 6 April 2014)
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 17 | 16–20 | 15–20 | 15–21 | 14–22 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [27 December 2017–2 January 2018](2018-01-02-SzázadvégAlapítvány.html) | Századvég Alapítvány | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [1–18 December 2017](2017-12-18-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -104,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.2% | 100% |  |
 | 6 | 4% | 99.8% |  |
 | 7 | 5% | 96% |  |
-| 8 | 16% | 91% |  |
-| 9 | 12% | 75% |  |
+| 8 | 14% | 90% |  |
+| 9 | 14% | 77% |  |
 | 10 | 9% | 63% |  |
 | 11 | 13% | 54% | Median |
 | 12 | 15% | 41% |  |
