@@ -68,7 +68,7 @@ Last result: **23** seats (General Election of 6 April 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–21 | 13–24 | 12–25 | 12–27 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 16 | 14–17 | 14–17 | 13–18 | 12–19 |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
@@ -99,8 +99,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.3% | 100% |  |
 | 12 | 4% | 99.7% |  |
 | 13 | 8% | 96% |  |
-| 14 | 11% | 88% |  |
-| 15 | 18% | 76% |  |
+| 14 | 11% | 87% |  |
+| 15 | 17% | 76% |  |
 | 16 | 17% | 59% | Median |
 | 17 | 17% | 42% |  |
 | 18 | 9% | 25% |  |
