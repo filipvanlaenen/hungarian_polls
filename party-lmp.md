@@ -60,7 +60,7 @@ Last result: **5** seats (General Election of 6 April 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–8 | 0–8 | 0–9 | 0–9 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 7 | 7–9 | 6–9 | 6–9 | 5–10 |
-| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0 | 0 | 0–5 | 0–5 | 0–6 |
+| [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 6 | 5–6 | 4–7 | 0–7 | 0–7 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
