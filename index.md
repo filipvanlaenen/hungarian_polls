@@ -12,7 +12,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 47–53% <br> 153–159 | 11–15% <br> 11–15 | 6–10% <br> 6–9 | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–18 | 6–9% <br> 5–8 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 50–55% <br> 159–164 | 8–10% <br> 8–10 | 7–9% <br> 7–9 | 1% <br> 0 | 1% <br> 0 | 1% <br> 0 | 11–14% <br> 12–15 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 45–51% <br> 152–160 | 15–19% <br> 15–21 | 4–6% <br> 0–6 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–19 | 6–9% <br> 5–9 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 45–51% <br> 149–158 | 6–10% <br> 6–10 | 6–9% <br> 5–9 | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 19–25% <br> 19–28 | 6–9% <br> 5–9 | 1–3% <br> 0 | 2–4% <br> 0 |
+| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 45–51% <br> 149–158 | 6–10% <br> 6–10 | 6–9% <br> 5–9 | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 19–25% <br> 20–28 | 6–9% <br> 5–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [10–20 December 2017](2017-12-20-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 54–60% <br> 161–171 | 9–13% <br> 9–13 | 4–7% <br> 0–6 | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 14–19% <br> 14–19 | 4–7% <br> 0–6 | 0–1% <br> 0 | 1–3% <br> 0 |
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 
