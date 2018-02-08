@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 46–64% <br> 151–173 | 6–18% <br> 6–19 | 4–10% <br> 0–9 | 1–3% <br> 0 | 0–1% <br> 0 | 0–2% <br> 0 | 12–23% <br> 12–25 | 4–9% <br> 0–9 | 0–3% <br> 0 | 0–4% <br> 0 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 152–159 | 11–15% <br> 10–14 | 5–8% <br> 0–7 | 1–2% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 13–18 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 167–176 | 6–9% <br> 5–9 | 5–8% <br> 0–7 | 1–3% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 12–16% <br> 12–17 | 3–5% <br> 0–5 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 155–161 | 9–13% <br> 9–12 | 7–11% <br> 7–10 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 16–20% <br> 15–19 | 5–7% <br> 0–7 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 155–161 | 9–13% <br> 9–12 | 7–11% <br> 7–10 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 16–20% <br> 15–20 | 5–7% <br> 0–7 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [1–20 January 2018](2018-01-20-ZRIZáveczResearch.html) | ZRI Závecz Research | 47–53% <br> 153–159 | 11–15% <br> 11–15 | 6–10% <br> 6–9 | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–18 | 6–9% <br> 5–8 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [3–18 January 2018](2018-01-18-NézőpontIntézet.html) | Nézőpont Intézet | 50–55% <br> 159–164 | 8–10% <br> 8–10 | 7–9% <br> 7–9 | 1% <br> 0 | 1% <br> 0 | 1% <br> 0 | 11–14% <br> 12–15 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [10–16 January 2018](2018-01-16-PublicusResearch.html) | Publicus Research | 45–51% <br> 152–160 | 15–19% <br> 15–21 | 4–6% <br> 0–6 | 1–3% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–19 | 6–9% <br> 5–9 | 1–2% <br> 0 | 1–2% <br> 0 |
@@ -450,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 19% | 49% |  |
 | 8 | 21% | 30% |  |
 | 9 | 8% | 9% |  |
-| 10 | 1.3% | 1.5% |  |
-| 11 | 0.2% | 0.2% |  |
+| 10 | 1.4% | 2% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 ### Együtt
@@ -502,11 +502,11 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 8% | 96% |  |
 | 14 | 11% | 87% |  |
 | 15 | 17% | 76% |  |
-| 16 | 18% | 59% | Median |
-| 17 | 16% | 41% |  |
+| 16 | 19% | 59% | Median |
+| 17 | 16% | 40% |  |
 | 18 | 8% | 24% |  |
 | 19 | 3% | 16% |  |
-| 20 | 1.2% | 13% |  |
+| 20 | 1.4% | 13% |  |
 | 21 | 2% | 12% |  |
 | 22 | 3% | 9% |  |
 | 23 | 1.1% | 7% | Last Result |
