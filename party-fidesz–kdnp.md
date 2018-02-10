@@ -74,7 +74,7 @@ Last result: **133** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 158 | 153–170 | 153–172 | 151–173 | 150–175 |
+| N/A | [Poll Average](average.html) | 158 | 154–170 | 152–172 | 151–173 | 150–175 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 155 | 153–159 | 152–160 | 152–161 | 151–162 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 171 | 169–174 | 168–175 | 167–176 | 166–178 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 157 | 156–160 | 155–160 | 155–161 | 154–163 |
@@ -120,14 +120,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 0% | 100% |  |
 | 147 | 0% | 100% |  |
 | 148 | 0.1% | 100% |  |
-| 149 | 0.4% | 99.9% |  |
-| 150 | 0.4% | 99.5% |  |
-| 151 | 2% | 99.2% |  |
+| 149 | 0.3% | 99.9% |  |
+| 150 | 0.7% | 99.6% |  |
+| 151 | 2% | 98.9% |  |
 | 152 | 2% | 97% |  |
-| 153 | 6% | 96% |  |
+| 153 | 5% | 95% |  |
 | 154 | 6% | 90% |  |
 | 155 | 10% | 84% |  |
-| 156 | 10% | 75% |  |
+| 156 | 11% | 75% |  |
 | 157 | 10% | 64% |  |
 | 158 | 8% | 54% | Median |
 | 159 | 5% | 46% |  |
