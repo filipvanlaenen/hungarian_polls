@@ -11,6 +11,7 @@ Last result: **25.6%** (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.2–1.9% | 0.1–2.3% | 0.1–2.5% | 0.1–3.0% |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0.0% | N/A | N/A | N/A | N/A |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 0.0% | N/A | N/A | N/A | N/A |
@@ -76,6 +77,7 @@ Last result: **1** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu |  |  |  |  |  |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 0 | 0 | 0 | 0 | 0 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 0 | 0 | 0 | 0 | 0 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu |  |  |  |  |  |
