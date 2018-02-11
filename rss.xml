@@ -8,13 +8,53 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Fri, 09 Feb 2018 22:58:34 +0100</pubDate>
+    <pubDate>Sun, 11 Feb 2018 15:03:44 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 158–167 seats&lt;/li&gt;&lt;li&gt;MSZP: 11–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 17–23 seats&lt;/li&gt;&lt;li&gt;LMP: 0–5 seats&lt;/li&gt;&lt;li&gt;DK: 0–7 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet-seats.png"
+        length="105187"
+        type="image/png"/>
+      <pubDate>Sun, 11 Feb 2018 15:03:44 +0100</pubDate>
+      <dc:date>2018-02-11T15:03:44.931944+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet-coalitions-seats.png"
+        length="72915"
+        type="image/png"/>
+      <pubDate>Sun, 11 Feb 2018 15:03:44 +0100</pubDate>
+      <dc:date>2018-02-11T15:03:44.931944+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 49.8–56.0%&lt;/li&gt;&lt;li&gt;MSZP: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Jobbik: 15.7–20.5%&lt;/li&gt;&lt;li&gt;LMP: 2.9–5.4%&lt;/li&gt;&lt;li&gt;DK: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MLP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.png"
+        length="188311"
+        type="image/png"/>
+      <pubDate>Sun, 11 Feb 2018 15:03:44 +0100</pubDate>
+      <dc:date>2018-02-11T15:03:44.931944+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 17–24 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-24-SzázadvégAlapítvány.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 152–161 seats&lt;/li&gt;&lt;li&gt;MSZP: 10–15 seats&lt;/li&gt;&lt;li&gt;Jobbik: 13–18 seats&lt;/li&gt;&lt;li&gt;LMP: 6–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–7 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-24-SzázadvégAlapítvány-seats.png"
         length="116783"
+        type="image/png"/>
+      <pubDate>Fri, 09 Feb 2018 14:10:04 +0100</pubDate>
+      <dc:date>2018-02-09T14:10:04.21046+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Századvég Alapítvány, 17–24 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-24-SzázadvégAlapítvány.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-24-SzázadvégAlapítvány-coalitions-seats.png"
+        length="73775"
         type="image/png"/>
       <pubDate>Fri, 09 Feb 2018 14:10:04 +0100</pubDate>
       <dc:date>2018-02-09T14:10:04.21046+01:00</dc:date>
@@ -40,6 +80,16 @@
       <dc:date>2018-02-06T20:43:03.621925+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by TÁRKI, 11–23 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-TÁRKI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-TÁRKI-coalitions-seats.png"
+        length="70502"
+        type="image/png"/>
+      <pubDate>Tue, 06 Feb 2018 20:43:03 +0100</pubDate>
+      <dc:date>2018-02-06T20:43:03.621925+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by TÁRKI, 11–23 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-TÁRKI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 59.7–65.7%&lt;/li&gt;&lt;li&gt;MSZP: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Jobbik: 12.1–16.4%&lt;/li&gt;&lt;li&gt;LMP: 3.0–5.5%&lt;/li&gt;&lt;li&gt;DK: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Párbeszéd: 1.3–3.0%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MM: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -55,6 +105,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 155–161 seats&lt;/li&gt;&lt;li&gt;MSZP: 9–12 seats&lt;/li&gt;&lt;li&gt;Jobbik: 15–20 seats&lt;/li&gt;&lt;li&gt;LMP: 0–7 seats&lt;/li&gt;&lt;li&gt;DK: 7–10 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-Medián-seats.png"
         length="106773"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2018 15:09:08 +0100</pubDate>
+      <dc:date>2018-02-08T15:09:08.935597+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián for hvg.hu, 19–23 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-Medián.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-23-Medián-coalitions-seats.png"
+        length="68508"
         type="image/png"/>
       <pubDate>Thu, 08 Feb 2018 15:09:08 +0100</pubDate>
       <dc:date>2018-02-08T15:09:08.935597+01:00</dc:date>
@@ -80,6 +140,16 @@
       <dc:date>2018-01-23T17:38:14.620907+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ZRI Závecz Research, 1–20 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-20-ZRIZáveczResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-20-ZRIZáveczResearch-coalitions-seats.png"
+        length="68924"
+        type="image/png"/>
+      <pubDate>Tue, 23 Jan 2018 17:38:14 +0100</pubDate>
+      <dc:date>2018-01-23T17:38:14.620907+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ZRI Závecz Research, 1–20 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-20-ZRIZáveczResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 46.8–53.0%&lt;/li&gt;&lt;li&gt;MSZP: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Jobbik: 13.9–18.4%&lt;/li&gt;&lt;li&gt;LMP: 5.6–8.8%&lt;/li&gt;&lt;li&gt;DK: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MLP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -95,6 +165,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 159–164 seats&lt;/li&gt;&lt;li&gt;MSZP: 8–10 seats&lt;/li&gt;&lt;li&gt;Jobbik: 12–15 seats&lt;/li&gt;&lt;li&gt;LMP: 7–9 seats&lt;/li&gt;&lt;li&gt;DK: 7–9 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-18-NézőpontIntézet-seats.png"
         length="107294"
+        type="image/png"/>
+      <pubDate>Tue, 30 Jan 2018 13:17:44 +0100</pubDate>
+      <dc:date>2018-01-30T13:17:44.867402+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 3–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-18-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-18-NézőpontIntézet-coalitions-seats.png"
+        length="67173"
         type="image/png"/>
       <pubDate>Tue, 30 Jan 2018 13:17:44 +0100</pubDate>
       <dc:date>2018-01-30T13:17:44.867402+01:00</dc:date>
@@ -120,6 +200,16 @@
       <dc:date>2018-01-22T21:03:03.736217+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Publicus Research, 10–16 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-16-PublicusResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-16-PublicusResearch-coalitions-seats.png"
+        length="72840"
+        type="image/png"/>
+      <pubDate>Mon, 22 Jan 2018 21:03:03 +0100</pubDate>
+      <dc:date>2018-01-22T21:03:03.736217+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Publicus Research, 10–16 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-16-PublicusResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 45.2–51.4%&lt;/li&gt;&lt;li&gt;MSZP: 14.6–19.1%&lt;/li&gt;&lt;li&gt;Jobbik: 13.6–18.1%&lt;/li&gt;&lt;li&gt;LMP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;DK: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -135,6 +225,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 149–158 seats&lt;/li&gt;&lt;li&gt;MSZP: 6–10 seats&lt;/li&gt;&lt;li&gt;Jobbik: 20–28 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 5–9 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-09-IránytűIntézet-seats.png"
         length="116665"
+        type="image/png"/>
+      <pubDate>Fri, 09 Feb 2018 22:58:34 +0100</pubDate>
+      <dc:date>2018-02-09T22:58:34.512071+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Iránytű Intézet, 5–9 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-09-IránytűIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-09-IránytűIntézet-coalitions-seats.png"
+        length="69287"
         type="image/png"/>
       <pubDate>Fri, 09 Feb 2018 22:58:34 +0100</pubDate>
       <dc:date>2018-02-09T22:58:34.512071+01:00</dc:date>
@@ -160,6 +260,16 @@
       <dc:date>2018-01-25T22:52:36.931871+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány-coalitions-seats.png"
+        length="76712"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jan 2018 22:52:36 +0100</pubDate>
+      <dc:date>2018-01-25T22:52:36.931871+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Századvég Alapítvány, 27 December 2017–2 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-02-SzázadvégAlapítvány.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 48.4–54.6%&lt;/li&gt;&lt;li&gt;MSZP: 11.9–16.2%&lt;/li&gt;&lt;li&gt;Jobbik: 13.7–18.2%&lt;/li&gt;&lt;li&gt;LMP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;DK: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MM: 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -175,6 +285,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 161–171 seats&lt;/li&gt;&lt;li&gt;MSZP: 9–13 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–19 seats&lt;/li&gt;&lt;li&gt;LMP: 0–6 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet-seats.png"
         length="107081"
+        type="image/png"/>
+      <pubDate>Sun, 14 Jan 2018 10:34:55 +0100</pubDate>
+      <dc:date>2018-01-14T10:34:55.46579+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 10–20 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-20-RepublikonIntézet-coalitions-seats.png"
+        length="71267"
         type="image/png"/>
       <pubDate>Sun, 14 Jan 2018 10:34:55 +0100</pubDate>
       <dc:date>2018-01-14T10:34:55.46579+01:00</dc:date>
@@ -200,6 +320,16 @@
       <dc:date>2018-01-21T14:19:17.578806+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Nézőpont Intézet, 1–18 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-18-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-18-NézőpontIntézet-coalitions-seats.png"
+        length="66515"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jan 2018 14:19:17 +0100</pubDate>
+      <dc:date>2018-01-21T14:19:17.578806+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Nézőpont Intézet, 1–18 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-18-NézőpontIntézet.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 48.7–53.0%&lt;/li&gt;&lt;li&gt;MSZP: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Jobbik: 12.5–15.5%&lt;/li&gt;&lt;li&gt;LMP: 7.8–10.3%&lt;/li&gt;&lt;li&gt;DK: 7.8–10.3%&lt;/li&gt;&lt;li&gt;Együtt: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.6–1.5%&lt;/li&gt;&lt;li&gt;MLP: 0.6–1.5%&lt;/li&gt;&lt;li&gt;MKKP: 1.5–2.7%&lt;/li&gt;&lt;li&gt;MM: 2.3–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -215,6 +345,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 156–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 10–14 seats&lt;/li&gt;&lt;li&gt;Jobbik: 12–16 seats&lt;/li&gt;&lt;li&gt;LMP: 5–8 seats&lt;/li&gt;&lt;li&gt;DK: 6–10 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-14-ZRIZáveczResearch-seats.png"
         length="106986"
+        type="image/png"/>
+      <pubDate>Fri, 05 Jan 2018 12:27:30 +0100</pubDate>
+      <dc:date>2018-01-05T12:27:30.693908+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 6–14 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-14-ZRIZáveczResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-14-ZRIZáveczResearch-coalitions-seats.png"
+        length="68949"
         type="image/png"/>
       <pubDate>Fri, 05 Jan 2018 12:27:30 +0100</pubDate>
       <dc:date>2018-01-05T12:27:30.693908+01:00</dc:date>
@@ -240,6 +380,16 @@
       <dc:date>2018-01-25T13:38:30.584817+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Publicus Research, 8–13 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-13-PublicusResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-13-PublicusResearch-coalitions-seats.png"
+        length="73852"
+        type="image/png"/>
+      <pubDate>Thu, 25 Jan 2018 13:38:30 +0100</pubDate>
+      <dc:date>2018-01-25T13:38:30.584817+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Publicus Research, 8–13 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-13-PublicusResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 44.7–50.9%&lt;/li&gt;&lt;li&gt;MSZP: 12.8–17.3%&lt;/li&gt;&lt;li&gt;Jobbik: 11.9–16.2%&lt;/li&gt;&lt;li&gt;LMP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;DK: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.9%&lt;/li&gt;&lt;li&gt;MKKP: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MM: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -255,6 +405,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 152–160 seats&lt;/li&gt;&lt;li&gt;MSZP: 6–9 seats&lt;/li&gt;&lt;li&gt;Jobbik: 19–26 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 5–8 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-12-IránytűIntézet-seats.png"
         length="113763"
+        type="image/png"/>
+      <pubDate>Wed, 24 Jan 2018 18:33:33 +0100</pubDate>
+      <dc:date>2018-01-24T18:33:33.567416+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Iránytű Intézet, 6–12 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-12-12-IránytűIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-12-12-IránytűIntézet-coalitions-seats.png"
+        length="70078"
         type="image/png"/>
       <pubDate>Wed, 24 Jan 2018 18:33:33 +0100</pubDate>
       <dc:date>2018-01-24T18:33:33.567416+01:00</dc:date>
@@ -280,6 +440,16 @@
       <dc:date>2018-01-10T06:46:10.823055+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Republikon Intézet for 24.hu, 18–30 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-RepublikonIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-RepublikonIntézet-coalitions-seats.png"
+        length="71136"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jan 2018 06:46:10 +0100</pubDate>
+      <dc:date>2018-01-10T06:46:10.823055+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 18–30 November 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-RepublikonIntézet.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 53.2–59.4%&lt;/li&gt;&lt;li&gt;MSZP: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Jobbik: 10.9–15.0%&lt;/li&gt;&lt;li&gt;LMP: 4.6–7.5%&lt;/li&gt;&lt;li&gt;DK: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Együtt: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MLP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -295,6 +465,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 162–169 seats&lt;/li&gt;&lt;li&gt;MSZP: 8–11 seats&lt;/li&gt;&lt;li&gt;Jobbik: 13–17 seats&lt;/li&gt;&lt;li&gt;LMP: 0–6 seats&lt;/li&gt;&lt;li&gt;DK: 5–8 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-Medián-seats.png"
         length="103523"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jan 2018 17:19:33 +0100</pubDate>
+      <dc:date>2018-01-20T17:19:33.418753+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián for hvg.hu, 1–30 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-Medián.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-Medián-coalitions-seats.png"
+        length="68025"
         type="image/png"/>
       <pubDate>Sat, 20 Jan 2018 17:19:33 +0100</pubDate>
       <dc:date>2018-01-20T17:19:33.418753+01:00</dc:date>
@@ -320,6 +500,16 @@
       <dc:date>2018-01-04T10:56:23.895946+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Iránytű Intézet, 24–30 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-IránytűIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-IránytűIntézet-coalitions-seats.png"
+        length="70193"
+        type="image/png"/>
+      <pubDate>Thu, 04 Jan 2018 10:56:23 +0100</pubDate>
+      <dc:date>2018-01-04T10:56:23.895946+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Iránytű Intézet, 24–30 November 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-30-IránytűIntézet.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 46.3–52.5%&lt;/li&gt;&lt;li&gt;MSZP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Jobbik: 19.3–24.4%&lt;/li&gt;&lt;li&gt;LMP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;DK: 6.4–9.7%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -335,6 +525,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 152–160 seats&lt;/li&gt;&lt;li&gt;MSZP: 11–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 12–17 seats&lt;/li&gt;&lt;li&gt;LMP: 6–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-28-SzázadvégAlapítvány-seats.png"
         length="105220"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jan 2018 18:54:07 +0100</pubDate>
+      <dc:date>2018-01-06T18:54:07.612376+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Századvég Alapítvány, 20–28 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-28-SzázadvégAlapítvány.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-28-SzázadvégAlapítvány-coalitions-seats.png"
+        length="73287"
         type="image/png"/>
       <pubDate>Sat, 06 Jan 2018 18:54:07 +0100</pubDate>
       <dc:date>2018-01-06T18:54:07.612376+01:00</dc:date>
@@ -360,6 +560,16 @@
       <dc:date>2018-01-10T19:52:25.652637+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Nézőpont Intézet, 1–19 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-19-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-19-NézőpontIntézet-coalitions-seats.png"
+        length="66420"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jan 2018 19:52:25 +0100</pubDate>
+      <dc:date>2018-01-10T19:52:25.652637+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Nézőpont Intézet, 1–19 November 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-19-NézőpontIntézet.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 45.8–50.2%&lt;/li&gt;&lt;li&gt;MSZP: 7.8–10.3%&lt;/li&gt;&lt;li&gt;Jobbik: 14.4–17.7%&lt;/li&gt;&lt;li&gt;LMP: 6.9–9.3%&lt;/li&gt;&lt;li&gt;DK: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Együtt: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Párbeszéd: 0.6–1.5%&lt;/li&gt;&lt;li&gt;MLP: 0.6–1.5%&lt;/li&gt;&lt;li&gt;MKKP: 1.5–2.7%&lt;/li&gt;&lt;li&gt;MM: 3.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -375,6 +585,16 @@
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–162 seats&lt;/li&gt;&lt;li&gt;MSZP: 12–17 seats&lt;/li&gt;&lt;li&gt;Jobbik: 15–20 seats&lt;/li&gt;&lt;li&gt;LMP: 5–9 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch-seats.png"
         length="109455"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jan 2018 21:24:27 +0100</pubDate>
+      <dc:date>2018-01-07T21:24:27.94434+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 11–15 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-15-PublicusResearch-coalitions-seats.png"
+        length="72503"
         type="image/png"/>
       <pubDate>Sun, 07 Jan 2018 21:24:27 +0100</pubDate>
       <dc:date>2018-01-07T21:24:27.94434+01:00</dc:date>
@@ -400,6 +620,16 @@
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by ZRI Závecz Research, 6–14 November 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-14-ZRIZáveczResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2017-11-14-ZRIZáveczResearch-coalitions-seats.png"
+        length="71064"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
+      <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by ZRI Závecz Research, 6–14 November 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2017-11-14-ZRIZáveczResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 45.9–52.1%&lt;/li&gt;&lt;li&gt;MSZP: 10.1–14.2%&lt;/li&gt;&lt;li&gt;Jobbik: 15.7–20.5%&lt;/li&gt;&lt;li&gt;LMP: 4.7–7.7%&lt;/li&gt;&lt;li&gt;DK: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MLP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -409,6 +639,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-02-09T22:58:34.512071+01:00</dc:date>
+    <dc:date>2018-02-11T15:03:44.931944+01:00</dc:date>
   </channel>
 </rss>
