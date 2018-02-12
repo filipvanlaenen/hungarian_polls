@@ -8,26 +8,26 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sun, 11 Feb 2018 19:32:48 +0100</pubDate>
+    <pubDate>Mon, 12 Feb 2018 19:32:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 158–167 seats&lt;/li&gt;&lt;li&gt;MSZP: 11–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 16–23 seats&lt;/li&gt;&lt;li&gt;LMP: 0–5 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 158–168 seats&lt;/li&gt;&lt;li&gt;MSZP: 11–16 seats&lt;/li&gt;&lt;li&gt;Jobbik: 16–22 seats&lt;/li&gt;&lt;li&gt;LMP: 0–5 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet-seats.png"
-        length="107115"
+        length="108925"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 19:32:48 +0100</pubDate>
-      <dc:date>2018-02-11T19:32:48.035063+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 19:32:52 +0100</pubDate>
+      <dc:date>2018-02-12T19:32:52.781734+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet-coalitions-seats.png"
-        length="72954"
+        length="72777"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 19:32:48 +0100</pubDate>
-      <dc:date>2018-02-11T19:32:48.035063+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 19:32:52 +0100</pubDate>
+      <dc:date>2018-02-12T19:32:52.781734+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-01-31-RepublikonIntézet.png"
         length="188311"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 19:32:48 +0100</pubDate>
-      <dc:date>2018-02-11T19:32:48.035063+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 19:32:52 +0100</pubDate>
+      <dc:date>2018-02-12T19:32:52.781734+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 17–24 January 2018 – Seat Projections</title>
@@ -639,6 +639,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-02-11T19:32:48.035063+01:00</dc:date>
+    <dc:date>2018-02-12T19:32:52.781734+01:00</dc:date>
   </channel>
 </rss>
