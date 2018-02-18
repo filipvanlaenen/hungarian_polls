@@ -76,7 +76,7 @@ Last result: **4** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
@@ -112,12 +112,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 86% |  |
 | 3 | 0% | 86% |  |
 | 4 | 0% | 86% | Last Result |
-| 5 | 12% | 86% |  |
-| 6 | 22% | 74% |  |
-| 7 | 20% | 52% | Median |
-| 8 | 23% | 32% |  |
-| 9 | 8% | 10% |  |
-| 10 | 1.5% | 2% |  |
+| 5 | 13% | 86% |  |
+| 6 | 18% | 72% |  |
+| 7 | 24% | 54% | Median |
+| 8 | 21% | 31% |  |
+| 9 | 8% | 9% |  |
+| 10 | 1.4% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
