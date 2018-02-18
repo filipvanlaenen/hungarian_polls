@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sat, 17 Feb 2018 23:52:39 +0100</pubDate>
+    <pubDate>Sun, 18 Feb 2018 08:51:27 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Századvég Alapítvány, 6–13 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 152–158 seats&lt;/li&gt;&lt;li&gt;MSZP: 7–11 seats&lt;/li&gt;&lt;li&gt;Jobbik: 11–15 seats&lt;/li&gt;&lt;li&gt;LMP: 8–11 seats&lt;/li&gt;&lt;li&gt;DK: 5–8 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány-seats.png"
+        length="103978"
+        type="image/png"/>
+      <pubDate>Sun, 18 Feb 2018 08:51:27 +0100</pubDate>
+      <dc:date>2018-02-18T08:51:27.634831+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Századvég Alapítvány, 6–13 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány-coalitions-seats.png"
+        length="69791"
+        type="image/png"/>
+      <pubDate>Sun, 18 Feb 2018 08:51:27 +0100</pubDate>
+      <dc:date>2018-02-18T08:51:27.634831+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 6–13 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-13-SzázadvégAlapítvány.png"
         length="186971"
         type="image/png"/>
-      <pubDate>Sat, 17 Feb 2018 23:52:39 +0100</pubDate>
-      <dc:date>2018-02-17T23:52:39.501571+01:00</dc:date>
+      <pubDate>Sun, 18 Feb 2018 08:51:27 +0100</pubDate>
+      <dc:date>2018-02-18T08:51:27.634831+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 1–31 January 2018 – Seat Projections</title>
@@ -649,6 +669,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-02-17T23:52:39.501571+01:00</dc:date>
+    <dc:date>2018-02-18T08:51:27.634831+01:00</dc:date>
   </channel>
 </rss>
