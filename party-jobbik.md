@@ -72,7 +72,7 @@ Last result: **23** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–21 | 12–24 | 12–26 | 11–27 |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
@@ -107,10 +107,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% |  |
-| 12 | 8% | 98.9% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 7% | 98% |  |
 | 13 | 12% | 91% |  |
-| 14 | 10% | 79% |  |
+| 14 | 11% | 79% |  |
 | 15 | 11% | 69% |  |
 | 16 | 12% | 58% | Median |
 | 17 | 13% | 46% |  |
