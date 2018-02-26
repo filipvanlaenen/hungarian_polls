@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Mon, 26 Feb 2018 09:42:48 +0100</pubDate>
+    <pubDate>Mon, 26 Feb 2018 13:02:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 3–21 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-21-NézőpontIntézet.html#seats</link>
@@ -74,20 +74,20 @@
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-14-PublicusResearch.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 150–159 seats&lt;/li&gt;&lt;li&gt;MSZP: 16–22 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–19 seats&lt;/li&gt;&lt;li&gt;LMP: 6–10 seats&lt;/li&gt;&lt;li&gt;DK: 0–6 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;Párbeszéd: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-14-PublicusResearch-seats.png"
-        length="113209"
+        length="116369"
         type="image/png"/>
-      <pubDate>Mon, 26 Feb 2018 09:42:48 +0100</pubDate>
-      <dc:date>2018-02-26T09:42:48.583962+01:00</dc:date>
+      <pubDate>Mon, 26 Feb 2018 13:02:20 +0100</pubDate>
+      <dc:date>2018-02-26T13:02:20.165234+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 February 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-14-PublicusResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-14-PublicusResearch-coalitions-seats.png"
-        length="73316"
+        length="72695"
         type="image/png"/>
-      <pubDate>Mon, 26 Feb 2018 09:42:48 +0100</pubDate>
-      <dc:date>2018-02-26T09:42:48.583962+01:00</dc:date>
+      <pubDate>Mon, 26 Feb 2018 13:02:20 +0100</pubDate>
+      <dc:date>2018-02-26T13:02:20.165234+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 February 2018 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-14-PublicusResearch.png"
         length="207046"
         type="image/png"/>
-      <pubDate>Mon, 26 Feb 2018 09:42:48 +0100</pubDate>
-      <dc:date>2018-02-26T09:42:48.583962+01:00</dc:date>
+      <pubDate>Mon, 26 Feb 2018 13:02:20 +0100</pubDate>
+      <dc:date>2018-02-26T13:02:20.165234+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Századvég Alapítvány, 6–13 February 2018 – Seat Projections</title>
@@ -759,6 +759,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-02-26T09:42:48.583962+01:00</dc:date>
+    <dc:date>2018-02-26T13:02:20.165234+01:00</dc:date>
   </channel>
 </rss>
