@@ -80,10 +80,10 @@ Last result: **133** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 158 | 153–170 | 151–172 | 151–173 | 149–175 |
+| N/A | [Poll Average](average.html) | 157 | 153–170 | 151–172 | 151–173 | 149–175 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 161 | 160–162 | 159–162 | 158–163 | 158–164 |
-| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 157 | 154–159 | 154–160 | 154–161 | 153–162 |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 154 | 151–158 | 150–159 | 149–159 | 148–160 |
+| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 157 | 155–159 | 154–160 | 154–161 | 152–162 |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 154 | 151–158 | 150–158 | 150–159 | 148–160 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 154 | 152–157 | 152–157 | 152–158 | 151–159 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 163 | 160–166 | 159–167 | 158–168 | 157–169 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 155 | 153–159 | 152–160 | 152–161 | 151–162 |
@@ -131,17 +131,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 0% | 100% |  |
 | 147 | 0% | 100% |  |
 | 148 | 0.2% | 100% |  |
-| 149 | 0.6% | 99.8% |  |
-| 150 | 1.0% | 99.2% |  |
-| 151 | 3% | 98% |  |
-| 152 | 4% | 95% |  |
+| 149 | 0.5% | 99.8% |  |
+| 150 | 1.3% | 99.3% |  |
+| 151 | 4% | 98% |  |
+| 152 | 4% | 94% |  |
 | 153 | 6% | 91% |  |
-| 154 | 7% | 85% |  |
-| 155 | 10% | 79% |  |
+| 154 | 6% | 85% |  |
+| 155 | 9% | 79% |  |
 | 156 | 9% | 69% |  |
-| 157 | 9% | 60% |  |
-| 158 | 9% | 51% | Median |
-| 159 | 5% | 42% |  |
+| 157 | 10% | 60% | Median |
+| 158 | 8% | 50% |  |
+| 159 | 4% | 42% |  |
 | 160 | 7% | 38% |  |
 | 161 | 7% | 31% |  |
 | 162 | 4% | 24% |  |
