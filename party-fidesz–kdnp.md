@@ -81,9 +81,9 @@ Last result: **133** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 157 | 153–170 | 151–172 | 151–173 | 149–175 |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 161 | 160–162 | 159–162 | 158–163 | 158–164 |
+| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 161 | 159–162 | 159–163 | 158–163 | 158–164 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 157 | 155–159 | 154–160 | 154–161 | 152–162 |
-| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 153 | 151–158 | 150–158 | 150–159 | 149–160 |
+| [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 154 | 151–157 | 150–158 | 150–159 | 149–160 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 154 | 152–157 | 152–157 | 152–158 | 151–159 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 163 | 160–166 | 159–167 | 158–168 | 157–169 |
 | [17–24 January 2018](2018-01-24-SzázadvégAlapítvány.html) | Századvég Alapítvány | 155 | 153–159 | 152–160 | 152–161 | 151–162 |
@@ -132,18 +132,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 0% | 100% |  |
 | 148 | 0.1% | 100% |  |
 | 149 | 0.4% | 99.8% |  |
-| 150 | 1.3% | 99.4% |  |
+| 150 | 1.2% | 99.4% |  |
 | 151 | 3% | 98% |  |
 | 152 | 3% | 95% |  |
-| 153 | 7% | 92% |  |
-| 154 | 7% | 84% |  |
+| 153 | 6% | 92% |  |
+| 154 | 8% | 85% |  |
 | 155 | 9% | 78% |  |
-| 156 | 10% | 69% |  |
+| 156 | 9% | 69% |  |
 | 157 | 10% | 59% | Median |
 | 158 | 7% | 50% |  |
 | 159 | 4% | 42% |  |
-| 160 | 7% | 38% |  |
-| 161 | 7% | 31% |  |
+| 160 | 6% | 38% |  |
+| 161 | 7% | 32% |  |
 | 162 | 4% | 24% |  |
 | 163 | 2% | 20% |  |
 | 164 | 2% | 18% |  |
