@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Tue, 27 Feb 2018 17:52:24 +0100</pubDate>
+    <pubDate>Wed, 28 Feb 2018 11:36:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 3–21 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-21-NézőpontIntézet.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–15 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-15-ZRIZáveczResearch.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 154–161 seats&lt;/li&gt;&lt;li&gt;MSZP: 10–15 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–19 seats&lt;/li&gt;&lt;li&gt;LMP: 0–7 seats&lt;/li&gt;&lt;li&gt;DK: 6–9 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 153–160 seats&lt;/li&gt;&lt;li&gt;MSZP: 11–15 seats&lt;/li&gt;&lt;li&gt;Jobbik: 14–19 seats&lt;/li&gt;&lt;li&gt;LMP: 0–7 seats&lt;/li&gt;&lt;li&gt;DK: 6–9 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-15-ZRIZáveczResearch-seats.png"
-        length="110530"
+        length="110089"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 22:05:45 +0100</pubDate>
-      <dc:date>2018-02-25T22:05:45.543702+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 11:36:32 +0100</pubDate>
+      <dc:date>2018-02-28T11:36:32.892333+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–15 February 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-15-ZRIZáveczResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-15-ZRIZáveczResearch-coalitions-seats.png"
-        length="69721"
+        length="70820"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 22:05:45 +0100</pubDate>
-      <dc:date>2018-02-25T22:05:45.543702+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 11:36:32 +0100</pubDate>
+      <dc:date>2018-02-28T11:36:32.892333+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–15 February 2018 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-15-ZRIZáveczResearch.png"
         length="180643"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 22:05:45 +0100</pubDate>
-      <dc:date>2018-02-25T22:05:45.543702+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 11:36:32 +0100</pubDate>
+      <dc:date>2018-02-28T11:36:32.892333+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 February 2018 – Seat Projections</title>
@@ -759,6 +759,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-02-27T17:52:24.657173+01:00</dc:date>
+    <dc:date>2018-02-28T11:36:32.892333+01:00</dc:date>
   </channel>
 </rss>
