@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 46–64% <br> 151–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 12–23% <br> 12–26 | 3–11% <br> 0–10 | 0–3% <br> 0 | 0–4% <br> 0 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 52–56% <br> 158–163 | 9–11% <br> 8–11 | 7–9% <br> 7–9 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 12–14% <br> 11–14 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
-| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–55% <br> 154–161 | 11–15% <br> 10–15 | 7–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 14–19 | 5–8% <br> 0–7 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–55% <br> 153–160 | 11–15% <br> 11–15 | 7–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 14–19 | 5–8% <br> 0–7 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 45–51% <br> 150–159 | 16–20% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–19 | 6–10% <br> 6–10 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [6–13 February 2018](2018-02-13-SzázadvégAlapítvány.html) | Századvég Alapítvány | 47–54% <br> 152–158 | 8–12% <br> 8–11 | 5–9% <br> 5–8 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 12–16% <br> 11–15 | 8–12% <br> 7–11 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [1–31 January 2018](2018-01-31-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 50–56% <br> 158–168 | 11–15% <br> 11–16 | 4–7% <br> 0–6 | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 16–21% <br> 16–22 | 3–5% <br> 0–5 | 0–1% <br> 0 | 2–4% <br> 0 |
@@ -377,10 +377,10 @@ Only polls for which at least the sample size has been published are included in
 | 152 | 3% | 95% |  |
 | 153 | 6% | 92% |  |
 | 154 | 8% | 85% |  |
-| 155 | 9% | 78% |  |
-| 156 | 9% | 69% |  |
-| 157 | 10% | 59% | Median |
-| 158 | 7% | 50% |  |
+| 155 | 9% | 77% |  |
+| 156 | 9% | 68% |  |
+| 157 | 9% | 59% | Median |
+| 158 | 8% | 50% |  |
 | 159 | 5% | 42% |  |
 | 160 | 6% | 37% |  |
 | 161 | 7% | 31% |  |
@@ -418,10 +418,10 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 13% | 75% |  |
 | 10 | 15% | 62% | Median |
 | 11 | 9% | 47% |  |
-| 12 | 6% | 38% |  |
+| 12 | 7% | 38% |  |
 | 13 | 9% | 31% |  |
 | 14 | 6% | 22% |  |
-| 15 | 3% | 17% |  |
+| 15 | 3% | 16% |  |
 | 16 | 2% | 13% |  |
 | 17 | 2% | 11% |  |
 | 18 | 2% | 9% |  |
@@ -508,7 +508,7 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 11% | 91% |  |
 | 14 | 11% | 80% |  |
 | 15 | 13% | 68% |  |
-| 16 | 10% | 56% | Median |
+| 16 | 11% | 56% | Median |
 | 17 | 12% | 45% |  |
 | 18 | 9% | 33% |  |
 | 19 | 6% | 24% |  |
@@ -536,7 +536,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 75% |  |
 | 2 | 0% | 75% |  |
 | 3 | 0% | 75% |  |
-| 4 | 0.2% | 75% |  |
+| 4 | 0.3% | 75% |  |
 | 5 | 13% | 75% | Last Result |
 | 6 | 15% | 62% | Median |
 | 7 | 16% | 47% |  |
@@ -605,10 +605,10 @@ Only polls for which at least the sample size has been published are included in
 | 152 | 3% | 95% |  |
 | 153 | 6% | 92% |  |
 | 154 | 8% | 85% |  |
-| 155 | 9% | 78% |  |
-| 156 | 9% | 69% |  |
-| 157 | 10% | 59% | Median |
-| 158 | 7% | 50% |  |
+| 155 | 9% | 77% |  |
+| 156 | 9% | 68% |  |
+| 157 | 9% | 59% | Median |
+| 158 | 8% | 50% |  |
 | 159 | 5% | 42% |  |
 | 160 | 6% | 37% |  |
 | 161 | 7% | 31% |  |
@@ -651,7 +651,7 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 11% | 36% |  |
 | 20 | 9% | 25% |  |
 | 21 | 7% | 15% |  |
-| 22 | 3% | 8% |  |
+| 22 | 3% | 9% |  |
 | 23 | 2% | 6% |  |
 | 24 | 2% | 4% |  |
 | 25 | 1.2% | 2% |  |
