@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 46–64% <br> 150–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 12–23% <br> 12–26 | 4–11% <br> 0–10 | 0–3% <br> 0 | 0–4% <br> 0 |
-| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 47–53% <br> 150–158 | 15–20% <br> 14–20 | 5–8% <br> 4–7 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 17–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 47–53% <br> 149–159 | 15–20% <br> 14–20 | 5–8% <br> 0–7 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 52–56% <br> 158–163 | 9–11% <br> 8–11 | 7–9% <br> 7–9 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 12–14% <br> 11–14 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–55% <br> 153–160 | 11–15% <br> 11–15 | 7–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 14–19 | 5–8% <br> 0–7 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 45–51% <br> 150–159 | 16–20% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–19 | 6–10% <br> 6–10 | 1–3% <br> 0 | 1–2% <br> 0 |
@@ -337,7 +337,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fidesz–kdnp">Fidesz–KDNP</a> | 133 | 156 | 152–170 |151–172 | 150–173 | 149–175 |
-| <a href="#mszp">MSZP</a> | 29 | 10 | 7–18 |7–19 | 6–20 | 6–21 |
+| <a href="#mszp">MSZP</a> | 29 | 10 | 7–19 |7–19 | 6–20 | 6–22 |
 | <a href="#dk">DK</a> | 4 | 7 | 5–8 |0–9 | 0–9 | 0–10 |
 | <a href="#együtt">Együtt</a> | 3 | 0 | 0 |0 | 0 | 0 |
 | <a href="#mlp">MLP</a> | 1 | 0 | 0 |0 | 0 | 0 |
@@ -376,10 +376,10 @@ Only polls for which at least the sample size has been published are included in
 | 151 | 4% | 97% |  |
 | 152 | 4% | 93% |  |
 | 153 | 8% | 89% |  |
-| 154 | 11% | 81% |  |
-| 155 | 12% | 70% |  |
-| 156 | 10% | 58% | Median |
-| 157 | 10% | 48% |  |
+| 154 | 10% | 80% |  |
+| 155 | 11% | 70% |  |
+| 156 | 11% | 59% | Median |
+| 157 | 10% | 49% |  |
 | 158 | 8% | 38% |  |
 | 159 | 4% | 30% |  |
 | 160 | 5% | 26% |  |
@@ -422,10 +422,10 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 5% | 33% |  |
 | 14 | 2% | 28% |  |
 | 15 | 2% | 25% |  |
-| 16 | 4% | 23% |  |
-| 17 | 5% | 19% |  |
+| 16 | 5% | 23% |  |
+| 17 | 4% | 19% |  |
 | 18 | 4% | 14% |  |
-| 19 | 5% | 9% |  |
+| 19 | 6% | 11% |  |
 | 20 | 3% | 5% |  |
 | 21 | 1.4% | 2% |  |
 | 22 | 0.4% | 0.5% |  |
@@ -449,9 +449,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 93% |  |
 | 2 | 0% | 93% |  |
 | 3 | 0% | 93% |  |
-| 4 | 0.5% | 93% | Last Result |
+| 4 | 0.3% | 93% | Last Result |
 | 5 | 15% | 93% |  |
-| 6 | 21% | 77% |  |
+| 6 | 22% | 78% |  |
 | 7 | 25% | 56% | Median |
 | 8 | 21% | 31% |  |
 | 9 | 8% | 9% |  |
@@ -510,10 +510,10 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 68% |  |
 | 16 | 11% | 56% | Median |
 | 17 | 12% | 45% |  |
-| 18 | 11% | 33% |  |
-| 19 | 6% | 23% |  |
+| 18 | 10% | 33% |  |
+| 19 | 6% | 24% |  |
 | 20 | 4% | 17% |  |
-| 21 | 3% | 13% |  |
+| 21 | 4% | 13% |  |
 | 22 | 2% | 10% |  |
 | 23 | 2% | 7% | Last Result |
 | 24 | 1.4% | 6% |  |
@@ -532,12 +532,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% |  |
-| 1 | 0% | 83% |  |
-| 2 | 0% | 83% |  |
-| 3 | 0% | 83% |  |
-| 4 | 2% | 83% |  |
-| 5 | 18% | 81% | Last Result |
+| 0 | 18% | 100% |  |
+| 1 | 0% | 82% |  |
+| 2 | 0% | 82% |  |
+| 3 | 0% | 82% |  |
+| 4 | 2% | 82% |  |
+| 5 | 17% | 80% | Last Result |
 | 6 | 16% | 63% | Median |
 | 7 | 16% | 47% |  |
 | 8 | 16% | 31% |  |
@@ -604,10 +604,10 @@ Only polls for which at least the sample size has been published are included in
 | 151 | 4% | 97% |  |
 | 152 | 4% | 93% |  |
 | 153 | 8% | 89% |  |
-| 154 | 11% | 81% |  |
-| 155 | 12% | 70% |  |
-| 156 | 10% | 58% | Median |
-| 157 | 10% | 48% |  |
+| 154 | 10% | 80% |  |
+| 155 | 11% | 70% |  |
+| 156 | 11% | 59% | Median |
+| 157 | 10% | 49% |  |
 | 158 | 8% | 38% |  |
 | 159 | 4% | 30% |  |
 | 160 | 5% | 26% |  |
@@ -652,12 +652,12 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 9% | 35% |  |
 | 21 | 8% | 26% |  |
 | 22 | 6% | 18% |  |
-| 23 | 3% | 12% |  |
-| 24 | 5% | 9% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.4% | 2% |  |
-| 27 | 0.3% | 0.3% |  |
-| 28 | 0% | 0% |  |
+| 23 | 4% | 13% |  |
+| 24 | 4% | 9% |  |
+| 25 | 3% | 5% |  |
+| 26 | 1.5% | 2% |  |
+| 27 | 0.3% | 0.4% |  |
+| 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
