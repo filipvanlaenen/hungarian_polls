@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Fri, 02 Mar 2018 17:12:32 +0100</pubDate>
+    <pubDate>Sat, 03 Mar 2018 09:40:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 9–22 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-22-RepublikonIntézet.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-22-RepublikonIntézet-seats.png"
         length="110545"
         type="image/png"/>
-      <pubDate>Fri, 02 Mar 2018 17:12:32 +0100</pubDate>
-      <dc:date>2018-03-02T17:12:32.931568+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 09:40:14 +0100</pubDate>
+      <dc:date>2018-03-03T09:40:14.063189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 9–22 February 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-02-22-RepublikonIntézet.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-22-RepublikonIntézet-coalitions-seats.png"
-        length="71294"
+        length="71342"
         type="image/png"/>
-      <pubDate>Fri, 02 Mar 2018 17:12:32 +0100</pubDate>
-      <dc:date>2018-03-02T17:12:32.931568+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 09:40:14 +0100</pubDate>
+      <dc:date>2018-03-03T09:40:14.063189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 9–22 February 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-02-22-RepublikonIntézet.png"
         length="172274"
         type="image/png"/>
-      <pubDate>Fri, 02 Mar 2018 17:12:32 +0100</pubDate>
-      <dc:date>2018-03-02T17:12:32.931568+01:00</dc:date>
+      <pubDate>Sat, 03 Mar 2018 09:40:14 +0100</pubDate>
+      <dc:date>2018-03-03T09:40:14.063189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Nézőpont Intézet, 3–21 February 2018 – Seat Projections</title>
@@ -789,6 +789,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-03-02T17:12:32.931568+01:00</dc:date>
+    <dc:date>2018-03-03T09:40:14.063189+01:00</dc:date>
   </channel>
 </rss>
