@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | MSZP | DK | Együtt | MLP | Párbeszéd | Jobbik | LMP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 46–64% <br> 150–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 10–23% <br> 10–26 | 4–9% <br> 0–9 | 0–3% <br> 0 | 0–4% <br> 0 |
-| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50–56% <br> 154–161 | 12–16% <br> 11–15 | 5–8% <br> 0–7 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 9–12 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | 46–64% <br> 150–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 10–23% <br> 9–26 | 4–9% <br> 0–9 | 0–3% <br> 0 | 0–4% <br> 0 |
+| [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50–56% <br> 154–161 | 12–16% <br> 11–15 | 5–8% <br> 0–7 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 8–12 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 47–53% <br> 149–159 | 15–20% <br> 14–20 | 5–8% <br> 0–7 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 52–56% <br> 158–163 | 9–11% <br> 8–11 | 7–9% <br> 7–9 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 12–14% <br> 11–14 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–55% <br> 153–160 | 11–15% <br> 11–15 | 7–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 14–19 | 5–8% <br> 0–7 | 0–1% <br> 0 | 1–3% <br> 0 |
