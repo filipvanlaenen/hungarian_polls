@@ -5,15 +5,16 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | MSZP | DK | Együtt | MLP | Párbeszéd | Jobbik | LMP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 46–64% <br> 150–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 10–23% <br> 9–26 | 4–9% <br> 0–9 | 0–3% <br> 0 | 0–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 43–64% <br> 144–173 | 6–19% <br> 6–20 | 4–10% <br> 0–9 | 0–2% <br> 0 | 0–1% <br> 0 | 0–3% <br> 0 | 10–25% <br> 9–29 | 4–10% <br> 0–9 | 0–3% <br> 0 | 0–5% <br> 0 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 49–55% <br> 155–158 | 8–12% <br> 9–10 | 5–8% <br> 6–7 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–19% <br> 16–18 | 7–11% <br> 9 | 1–3% <br> 0 | 3–5% <br> 0 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 50–56% <br> 154–161 | 12–16% <br> 11–15 | 5–8% <br> 0–7 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 8–12 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 41–47% <br> 143–151 | 9–13% <br> 8–12 | 6–10% <br> 6–9 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 21–27% <br> 23–29 | 6–10% <br> 6–10 | 0–1% <br> 0 | 3–5% <br> 0–5 |
+| [26–28 February 2018](2018-02-28-IDEAIntézet.html) | IDEA Intézet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 47–53% <br> 149–159 | 15–20% <br> 14–20 | 5–8% <br> 0–7 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 52–56% <br> 158–163 | 9–11% <br> 8–11 | 7–9% <br> 7–9 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 12–14% <br> 11–14 | 7–9% <br> 7–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 48–55% <br> 153–160 | 11–15% <br> 11–15 | 7–10% <br> 6–9 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 15–20% <br> 14–19 | 5–8% <br> 0–7 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [9–14 February 2018](2018-02-14-PublicusResearch.html) | Publicus Research | 45–51% <br> 150–159 | 16–20% <br> 16–22 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 14–18% <br> 14–19 | 6–10% <br> 6–10 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [11–23 January 2018](2018-01-23-TÁRKI.html) | TÁRKI | 60–66% <br> 167–176 | 6–9% <br> 5–9 | 5–8% <br> 0–7 | 1–3% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 12–16% <br> 12–17 | 3–5% <br> 0–5 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [19–23 January 2018](2018-01-23-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 155–161 | 9–13% <br> 9–12 | 7–11% <br> 7–10 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 16–20% <br> 15–20 | 5–7% <br> 0–7 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [5–9 January 2018](2018-01-09-IránytűIntézet.html) | Iránytű Intézet | 45–51% <br> 149–158 | 6–10% <br> 6–10 | 6–9% <br> 5–9 | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 19–25% <br> 20–28 | 6–9% <br> 5–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
