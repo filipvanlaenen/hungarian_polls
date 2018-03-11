@@ -10,8 +10,11 @@ Last result: **25.6%** (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 7.4–18.1% | 6.8–18.9% | 6.4–19.4% | 5.8–20.4% |
+| N/A | [Poll Average](average.html) | 12.3% | 7.9–18.1% | 7.0–18.9% | 6.5–19.4% | 5.8–20.4% |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [26–28 February 2018](2018-02-28-IDEAIntézet.html) | IDEA Intézet | 12.9% | N/A | N/A | N/A | N/A |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
@@ -48,13 +51,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 3% | 99.8% |  |
-| 6.5–7.5% | 9% | 97% |  |
-| 7.5–8.5% | 9% | 88% |  |
-| 8.5–9.5% | 7% | 79% |  |
-| 9.5–10.5% | 10% | 72% |  |
-| 10.5–11.5% | 9% | 62% |  |
-| 11.5–12.5% | 7% | 53% | Median |
-| 12.5–13.5% | 8% | 46% |  |
+| 6.5–7.5% | 6% | 97% |  |
+| 7.5–8.5% | 4% | 92% |  |
+| 8.5–9.5% | 5% | 88% |  |
+| 9.5–10.5% | 11% | 83% |  |
+| 10.5–11.5% | 14% | 71% |  |
+| 11.5–12.5% | 10% | 58% | Median |
+| 12.5–13.5% | 9% | 47% |  |
 | 13.5–14.5% | 8% | 38% |  |
 | 14.5–15.5% | 4% | 30% |  |
 | 15.5–16.5% | 4% | 26% |  |
@@ -78,8 +81,11 @@ Last result: **29** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–19 | 7–19 | 6–20 | 6–22 |
+| N/A | [Poll Average](average.html) | 12 | 8–19 | 7–19 | 6–20 | 6–22 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 9 | 9 | 9–10 | 9–14 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 11 | 10–12 | 9–12 | 8–12 | 8–13 |
+| [26–28 February 2018](2018-02-28-IDEAIntézet.html) | IDEA Intézet |  |  |  |  |  |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
@@ -117,12 +123,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.3% | 100% |  |
 | 6 | 3% | 99.7% |  |
-| 7 | 9% | 96% |  |
-| 8 | 9% | 87% |  |
-| 9 | 9% | 78% |  |
-| 10 | 11% | 69% |  |
-| 11 | 9% | 58% | Median |
-| 12 | 8% | 49% |  |
+| 7 | 5% | 97% |  |
+| 8 | 4% | 91% |  |
+| 9 | 15% | 88% |  |
+| 10 | 7% | 73% |  |
+| 11 | 14% | 66% |  |
+| 12 | 10% | 52% | Median |
 | 13 | 10% | 42% |  |
 | 14 | 6% | 32% |  |
 | 15 | 3% | 27% |  |
