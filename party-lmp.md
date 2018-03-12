@@ -70,11 +70,11 @@ Last result: **5** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–9 | 0–9 | 0–10 |
-| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 9 | 9 | 9 | 8–9 |
+| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–9 | 0–10 | 0–10 |
+| [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
-| [26–28 February 2018](2018-02-28-IDEAIntézet.html) | IDEA Intézet | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
+| [26–28 February 2018](2018-02-28-IDEAIntézet.html) | IDEA Intézet | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [9–22 February 2018](2018-02-22-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [3–21 February 2018](2018-02-21-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [7–15 February 2018](2018-02-15-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
@@ -117,11 +117,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 1.4% | 84% |  |
 | 5 | 15% | 83% | Last Result |
 | 6 | 15% | 68% |  |
-| 7 | 18% | 53% | Median |
-| 8 | 17% | 35% |  |
-| 9 | 17% | 18% |  |
-| 10 | 1.1% | 1.2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 7 | 19% | 53% | Median |
+| 8 | 20% | 34% |  |
+| 9 | 11% | 14% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
