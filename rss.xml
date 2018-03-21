@@ -8,7 +8,27 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Sat, 17 Mar 2018 10:32:19 +0100</pubDate>
+    <pubDate>Wed, 21 Mar 2018 09:55:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ZRI Závecz Research, 7–14 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 43.9–50.1%&lt;/li&gt;&lt;li&gt;MSZP: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Jobbik: 16.7–21.6%&lt;/li&gt;&lt;li&gt;LMP: 4.7–7.7%&lt;/li&gt;&lt;li&gt;DK: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MKKP: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch.png"
+        length="178821"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 09:55:26 +0100</pubDate>
+      <dc:date>2018-03-21T09:55:26.795252+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Publicus Research, 9–14 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 45.7–51.9%&lt;/li&gt;&lt;li&gt;MSZP: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Jobbik: 14.8–19.4%&lt;/li&gt;&lt;li&gt;LMP: 6.4–9.8%&lt;/li&gt;&lt;li&gt;DK: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 0.5–1.8%&lt;/li&gt;&lt;li&gt;MM: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch.png"
+        length="178150"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 06:50:05 +0100</pubDate>
+      <dc:date>2018-03-21T06:50:05.771236+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Medián for hvg.hu, 2–7 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-07-Medián.html#seats</link>
@@ -909,6 +929,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-03-17T10:32:19.458358+01:00</dc:date>
+    <dc:date>2018-03-21T09:55:26.795252+01:00</dc:date>
   </channel>
 </rss>
