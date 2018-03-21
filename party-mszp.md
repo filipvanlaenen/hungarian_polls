@@ -83,9 +83,9 @@ Last result: **29** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–18 | 7–19 | 6–20 | 6–22 |
-| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 11–14 | 11–15 | 11–15 | 11–16 |
-| [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 17 | 16–21 | 15–21 | 15–22 | 14–22 |
+| N/A | [Poll Average](average.html) | 12 | 8–18 | 7–19 | 6–20 | 6–21 |
+| [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 17 | 16–20 | 15–21 | 15–21 | 15–22 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
@@ -130,19 +130,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 5% | 97% |  |
 | 8 | 5% | 91% |  |
 | 9 | 6% | 87% |  |
-| 10 | 10% | 81% |  |
-| 11 | 13% | 71% |  |
-| 12 | 12% | 58% | Median |
+| 10 | 11% | 81% |  |
+| 11 | 12% | 70% |  |
+| 12 | 13% | 59% | Median |
 | 13 | 13% | 46% |  |
 | 14 | 6% | 33% |  |
 | 15 | 4% | 27% |  |
-| 16 | 5% | 23% |  |
-| 17 | 6% | 18% |  |
+| 16 | 6% | 23% |  |
+| 17 | 6% | 17% |  |
 | 18 | 3% | 11% |  |
-| 19 | 4% | 8% |  |
-| 20 | 2% | 5% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.5% | 0.5% |  |
+| 19 | 5% | 8% |  |
+| 20 | 2% | 4% |  |
+| 21 | 1.2% | 2% |  |
+| 22 | 0.3% | 0.3% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
