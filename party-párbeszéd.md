@@ -10,7 +10,9 @@ Last result: **25.6%** (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.2–2.4% | 0.1–2.7% | 0.1–2.9% | 0.0–3.3% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 0.0% | N/A | N/A | N/A | N/A |
+| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 0.0% | N/A | N/A | N/A | N/A |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 0.0% | N/A | N/A | N/A | N/A |
@@ -50,11 +52,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 46% | 100% |  |
-| 0.5–1.5% | 10% | 54% | Median |
-| 1.5–2.5% | 37% | 44% |  |
-| 2.5–3.5% | 7% | 7% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 74% | 88% | Median |
+| 2.5–3.5% | 14% | 14% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -88,6 +90,8 @@ Last result: **1** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet |  |  |  |  |  |
+| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet |  |  |  |  |  |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research |  |  |  |  |  |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research |  |  |  |  |  |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu |  |  |  |  |  |
