@@ -8,7 +8,47 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Wed, 21 Mar 2018 12:37:19 +0100</pubDate>
+    <pubDate>Mon, 02 Apr 2018 10:10:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Iránytű Intézet for Magyar Nemzet, 21–24 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-24-IránytűIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 37.8–43.9%&lt;/li&gt;&lt;li&gt;MSZP: 10.0–14.1%&lt;/li&gt;&lt;li&gt;Jobbik: 22.3–27.7%&lt;/li&gt;&lt;li&gt;LMP: 6.5–9.9%&lt;/li&gt;&lt;li&gt;DK: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Együtt: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-24-IránytűIntézet.png"
+        length="198269"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 00:10:51 +0200</pubDate>
+      <dc:date>2018-04-02T00:10:51.152312+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 3–19 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 155–161 seats&lt;/li&gt;&lt;li&gt;MSZP: 9–13 seats&lt;/li&gt;&lt;li&gt;Jobbik: 13–18 seats&lt;/li&gt;&lt;li&gt;LMP: 6–10 seats&lt;/li&gt;&lt;li&gt;DK: 6–10 seats&lt;/li&gt;&lt;li&gt;Együtt: 0 seats&lt;/li&gt;&lt;li&gt;MLP: 0 seats&lt;/li&gt;&lt;li&gt;MKKP: 0 seats&lt;/li&gt;&lt;li&gt;MM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet-seats.png"
+        length="108012"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 10:10:07 +0200</pubDate>
+      <dc:date>2018-04-02T10:10:07.53651+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 3–19 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet-coalitions-seats.png"
+        length="68532"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 10:10:07 +0200</pubDate>
+      <dc:date>2018-04-02T10:10:07.53651+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Nézőpont Intézet, 3–19 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 48.6–54.8%&lt;/li&gt;&lt;li&gt;MSZP: 9.1–13.0%&lt;/li&gt;&lt;li&gt;Jobbik: 12.8–17.3%&lt;/li&gt;&lt;li&gt;LMP: 6.5–9.9%&lt;/li&gt;&lt;li&gt;DK: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Együtt: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 1.3–3.1%&lt;/li&gt;&lt;li&gt;MM: 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-19-NézőpontIntézet.png"
+        length="179201"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 10:10:07 +0200</pubDate>
+      <dc:date>2018-04-02T10:10:07.53651+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–14 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch.html#seats</link>
@@ -969,6 +1009,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-03-21T12:37:19.372457+01:00</dc:date>
+    <dc:date>2018-04-02T10:10:07.53651+02:00</dc:date>
   </channel>
 </rss>
