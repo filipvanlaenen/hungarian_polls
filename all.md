@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | MSZP | DK | Együtt | MLP | Párbeszéd | Jobbik | LMP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 46–52% <br> 152–160 | 15–19% <br> 16–22 | 4–7% <br> 0–6 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 17–20 | 3–5% <br> 0–6 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–54% <br> 152–159 | 13–17% <br> 12–17 | 5–8% <br> 0–7 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 10–15 | 6–9% <br> 5–8 | N/A <br> N/A | N/A <br> N/A |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 38–44% <br> 131–147 | 10–14% <br> 10–14 | 6–9% <br> 5–9 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 22–28% <br> 26–42 | 6–10% <br> 6–9 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 49–55% <br> 155–161 | 9–13% <br> 9–13 | 6–10% <br> 6–10 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 13–17% <br> 13–18 | 6–10% <br> 6–10 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 44–50% <br> 149–158 | 11–15% <br> 11–15 | 6–10% <br> 6–10 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 17–23 | 5–8% <br> 0–7 | 1–3% <br> 0 | 2–4% <br> 0 |
