@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Wed, 04 Apr 2018 22:59:44 +0200</pubDate>
+    <pubDate>Thu, 05 Apr 2018 19:33:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Republikon Intézet for 24.hu, 10 March–23 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-10-23-RepublikonIntézet.html</link>
@@ -20,6 +20,16 @@
       <dc:date>2018-04-04T21:06:54.17844+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Publicus Research, 28 March–3 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-04-03-PublicusResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 41.6–47.7%&lt;/li&gt;&lt;li&gt;MSZP: 16.6–21.4%&lt;/li&gt;&lt;li&gt;Jobbik: 17.5–22.5%&lt;/li&gt;&lt;li&gt;LMP: 5.5–8.7%&lt;/li&gt;&lt;li&gt;DK: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Együtt: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MM: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-04-03-PublicusResearch.png"
+        length="191162"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 19:33:29 +0200</pubDate>
+      <dc:date>2018-04-05T19:33:29.660047+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Századvég Alapítvány, 1–31 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-31-SzázadvégAlapítvány.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 47.9–54.1%&lt;/li&gt;&lt;li&gt;MSZP: 12.9–17.4%&lt;/li&gt;&lt;li&gt;Jobbik: 11.1–15.2%&lt;/li&gt;&lt;li&gt;LMP: 5.6–8.8%&lt;/li&gt;&lt;li&gt;DK: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Együtt: 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -28,6 +38,16 @@
         type="image/png"/>
       <pubDate>Wed, 04 Apr 2018 22:59:44 +0200</pubDate>
       <dc:date>2018-04-04T22:59:44.63308+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Medián for hvg.hu, 23–27 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-27-Medián.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fidesz–KDNP: 50.0–55.6%&lt;/li&gt;&lt;li&gt;MSZP: 10.3–14.0%&lt;/li&gt;&lt;li&gt;Jobbik: 14.0–18.2%&lt;/li&gt;&lt;li&gt;LMP: 5.7–8.6%&lt;/li&gt;&lt;li&gt;DK: 4.8–7.5%&lt;/li&gt;&lt;li&gt;Együtt: 0.6–1.8%&lt;/li&gt;&lt;li&gt;MLP: 0.1–0.7%&lt;/li&gt;&lt;li&gt;MKKP: 1.3–3.0%&lt;/li&gt;&lt;li&gt;MM: 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-27-Medián.png"
+        length="186552"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 18:04:30 +0200</pubDate>
+      <dc:date>2018-04-05T18:04:30.87851+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Iránytű Intézet for Magyar Nemzet, 21–24 March 2018 – Seat Projections</title>
@@ -1049,6 +1069,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-04-04T22:59:44.63308+02:00</dc:date>
+    <dc:date>2018-04-05T19:33:29.660047+02:00</dc:date>
   </channel>
 </rss>
