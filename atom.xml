@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/hungarian_polls</id>
   <title>All Registered Polls for the National Assembly of Hungary</title>
-  <updated>2018-04-05T20:51:20.035146+02:00</updated>
+  <updated>2018-04-06T13:01:01.270838+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP: 45.8–52.0%, 153–163 seats</li><li>MSZP: 14.8–19.5%, 15–22 seats</li><li>Jobbik: 16.7–21.6%, 17–23 seats</li><li>LMP: 2.9–5.4%, 0–5 seats</li><li>DK: 3.8–6.5%, 0–6 seats</li><li>Együtt: 1.3–3.1%, 0 seats</li><li>MKKP: 0.1–0.7%, 0 seats</li><li>MM: 1.3–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_polls/2018-10-23-RepublikonIntézet.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_polls/2018-10-23-RepublikonIntézet.html"/>
+    <title>Opinion Poll by Republikon Intézet for 24.hu, 10 March–23 October 2018</title>
+    <updated>2018-04-06T11:35:39.191365+02:00</updated>
+    <dc:date>2018-04-06T11:35:39.191365+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP: 41.6–47.7%, 144–154 seats</li><li>MSZP: 16.6–21.4%, 17–23 seats</li><li>Jobbik: 17.5–22.5%, 17–25 seats</li><li>LMP: 5.5–8.7%, 5–8 seats</li><li>DK: 3.8–6.5%, 0–6 seats</li><li>Együtt: 0.1–0.7%, 0 seats</li><li>MLP: 0.1–0.7%, 0 seats</li><li>MKKP: 0.1–0.7%, 0 seats</li><li>MM: 1.3–3.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/hungarian_polls/2018-04-03-PublicusResearch.html</id>
@@ -14,6 +22,22 @@
     <title>Opinion Poll by Publicus Research, 28 March–3 April 2018</title>
     <updated>2018-04-05T20:51:20.035146+02:00</updated>
     <dc:date>2018-04-05T20:51:20.035146+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP: 47.9–54.1%, 152–159 seats</li><li>MSZP: 12.9–17.4%, 12–16 seats</li><li>Jobbik: 11.1–15.2%, 10–14 seats</li><li>LMP: 5.6–8.8%, 5–8 seats</li><li>DK: 4.7–7.7%, 0–7 seats</li><li>Együtt: 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_polls/2018-03-31-SzázadvégAlapítvány.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_polls/2018-03-31-SzázadvégAlapítvány.html"/>
+    <title>Opinion Poll by Századvég Alapítvány, 1–31 March 2018</title>
+    <updated>2018-04-06T10:20:15.929152+02:00</updated>
+    <dc:date>2018-04-06T10:20:15.929152+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP: 50.0–55.6%, 156–163 seats</li><li>MSZP: 10.3–14.0%, 10–14 seats</li><li>Jobbik: 14.0–18.2%, 14–18 seats</li><li>LMP: 5.7–8.6%, 5–8 seats</li><li>DK: 4.8–7.5%, 0–7 seats</li><li>Együtt: 0.6–1.8%, 0 seats</li><li>MLP: 0.1–0.7%, 0 seats</li><li>MKKP: 1.3–3.0%, 0 seats</li><li>MM: 1.3–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/hungarian_polls/2018-03-27-Medián.html</id>
+    <link href="https://filipvanlaenen.github.io/hungarian_polls/2018-03-27-Medián.html"/>
+    <title>Opinion Poll by Medián for hvg.hu, 23–27 March 2018</title>
+    <updated>2018-04-06T13:01:01.270838+02:00</updated>
+    <dc:date>2018-04-06T13:01:01.270838+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fidesz–KDNP: 37.8–43.9%, 131–147 seats</li><li>MSZP: 10.0–14.1%, 10–14 seats</li><li>Jobbik: 22.3–27.7%, 26–42 seats</li><li>LMP: 6.5–9.9%, 6–9 seats</li><li>DK: 5.6–8.8%, 5–9 seats</li><li>Együtt: 0.1–0.7%, 0 seats</li><li>MLP: 0.1–0.7%, 0 seats</li><li>MKKP: 1.3–3.1%, 0 seats</li><li>MM: 2.1–4.3%, 0 seats</li></ul></div></content>
@@ -287,5 +311,5 @@
     <updated>2018-01-06T09:18:04.927138+01:00</updated>
     <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
   </entry>
-  <dc:date>2018-04-05T20:51:20.035146+02:00</dc:date>
+  <dc:date>2018-04-06T13:01:01.270838+02:00</dc:date>
 </feed>
