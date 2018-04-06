@@ -73,11 +73,11 @@ Last result: **5** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 7 | 6–8 | 5–8 | 5–8 | 0–9 |
-| [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
-| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
@@ -126,8 +126,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 12% |  |
 | 3 | 0% | 12% |  |
 | 4 | 0% | 12% |  |
-| 5 | 5% | 12% | Last Result |
-| 6 | 7% | 7% |  |
+| 5 | 11% | 12% | Last Result |
+| 6 | 0.6% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 

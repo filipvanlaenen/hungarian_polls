@@ -79,11 +79,11 @@ Last result: **133** seats (General Election of 6 April 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 156 | 153–160 | 152–160 | 152–160 | 152–161 |
-| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 156 | 153–160 | 152–160 | 152–160 | 152–161 |
+| N/A | [Poll Average](average.html) | 158 | 154–162 | 153–162 | 153–162 | 150–164 |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 158 | 154–162 | 153–162 | 153–162 | 150–164 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 150 | 146–153 | 145–153 | 144–154 | 142–156 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 155 | 153–157 | 152–158 | 152–159 | 150–160 |
-| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 158 | 156–160 | 156–161 | 156–161 | 156–161 |
+| [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 160 | 157–161 | 157–162 | 156–163 | 155–164 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 143 | 133–146 | 132–147 | 131–147 | 125–149 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 158 | 156–160 | 155–161 | 155–161 | 154–162 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 154 | 152–156 | 151–157 | 149–158 | 148–160 |
@@ -143,19 +143,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 0% | 100% |  |
 | 147 | 0% | 100% |  |
 | 148 | 0% | 100% |  |
-| 149 | 0% | 100% |  |
-| 150 | 0% | 100% |  |
-| 151 | 0% | 100% |  |
-| 152 | 7% | 100% |  |
-| 153 | 4% | 93% |  |
-| 154 | 0.7% | 88% |  |
-| 155 | 0% | 88% |  |
-| 156 | 49% | 88% | Median |
-| 157 | 2% | 39% |  |
-| 158 | 0% | 37% |  |
-| 159 | 2% | 37% |  |
-| 160 | 35% | 36% |  |
-| 161 | 1.1% | 1.1% |  |
-| 162 | 0% | 0% |  |
+| 149 | 0.2% | 99.9% |  |
+| 150 | 0.2% | 99.7% |  |
+| 151 | 0.4% | 99.5% |  |
+| 152 | 0.9% | 99.1% |  |
+| 153 | 4% | 98% |  |
+| 154 | 5% | 95% |  |
+| 155 | 11% | 90% |  |
+| 156 | 12% | 79% |  |
+| 157 | 7% | 67% |  |
+| 158 | 18% | 60% | Median |
+| 159 | 15% | 41% |  |
+| 160 | 3% | 27% |  |
+| 161 | 10% | 24% |  |
+| 162 | 12% | 14% |  |
+| 163 | 0.7% | 2% |  |
+| 164 | 1.1% | 1.1% |  |
+| 165 | 0% | 0% |  |
 
 
