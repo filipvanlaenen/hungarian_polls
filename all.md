@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Fidesz–KDNP | MSZP | DK | Együtt | MLP | Párbeszéd | Jobbik | LMP | MKKP | MM |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 April 2014 | General Election | 44.9% <br> 133 | 25.6% <br> 29 | 25.6% <br> 4 | 25.6% <br> 3 | 25.6% <br> 1 | 25.6% <br> 1 | 20.2% <br> 23 | 5.3% <br> 5 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 46–52% <br> 153–162 | 15–19% <br> 15–22 | 4–7% <br> 0–6 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 16–24 | 3–5% <br> 0–5 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [10 March–23 October 2018](2018-10-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 46–52% <br> 153–163 | 15–19% <br> 15–22 | 4–7% <br> 0–6 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 17–23 | 3–5% <br> 0–5 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 42–48% <br> 144–154 | 17–21% <br> 17–23 | 4–7% <br> 0–6 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 18–22% <br> 17–25 | 6–9% <br> 5–8 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 48–54% <br> 152–159 | 13–17% <br> 12–16 | 5–8% <br> 0–7 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 10–14 | 6–9% <br> 5–8 | N/A <br> N/A | N/A <br> N/A |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 50–56% <br> 156–163 | 10–14% <br> 10–14 | 5–7% <br> 0–7 | 1–2% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 14–18% <br> 14–18 | 6–9% <br> 5–8 | 1–3% <br> 0 | 1–3% <br> 0 |
