@@ -96,7 +96,7 @@ Last result: **4** seats (General Election of 6 April 2014)
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 5 | 4–6 | 0–7 | 0–7 | 0–7 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 6 | 5–6 | 5–7 | 0–7 | 0–8 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
-| [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
@@ -139,14 +139,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 0.5% | 84% | Last Result |
-| 5 | 24% | 84% |  |
+| 0 | 15% | 100% |  |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0.5% | 85% | Last Result |
+| 5 | 25% | 85% |  |
 | 6 | 26% | 60% | Median |
-| 7 | 17% | 34% |  |
+| 7 | 16% | 34% |  |
 | 8 | 12% | 17% |  |
 | 9 | 5% | 5% |  |
 | 10 | 0.9% | 1.0% |  |
