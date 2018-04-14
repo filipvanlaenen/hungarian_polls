@@ -92,7 +92,7 @@ Last result: **4** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–8 | 0–9 | 0–9 | 0–10 |
-| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 5 | 4–6 | 0–7 | 0–7 | 0–7 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 6 | 5–6 | 5–7 | 0–7 | 0–8 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
@@ -148,9 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 26% | 60% | Median |
 | 7 | 16% | 34% |  |
 | 8 | 12% | 17% |  |
-| 9 | 5% | 5% |  |
-| 10 | 0.9% | 1.0% |  |
-| 11 | 0.1% | 0.1% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.8% | 0.8% |  |
+| 11 | 0% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 

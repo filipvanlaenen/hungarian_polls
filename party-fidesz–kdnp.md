@@ -100,12 +100,12 @@ Last result: **133** seats (General Election of 6 April 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 156 | 145–170 | 141–172 | 137–173 | 132–175 |
-| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 150 | 146–153 | 145–153 | 144–154 | 142–156 |
+| [28 March–3 April 2018](2018-04-03-PublicusResearch.html) | Publicus Research | 150 | 146–153 | 145–154 | 144–155 | 142–156 |
 | [1–31 March 2018](2018-03-31-SzázadvégAlapítvány.html) | Századvég Alapítvány | 155 | 153–157 | 152–158 | 152–159 | 150–160 |
 | [23–27 March 2018](2018-03-27-Medián.html) | Medián <br> hvg.hu | 159 | 157–161 | 157–162 | 156–163 | 155–164 |
 | [21–24 March 2018](2018-03-24-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 143 | 133–146 | 132–147 | 131–147 | 125–149 |
 | [10–23 March 2018](2018-03-23-RepublikonIntézet.html) | Republikon Intézet <br> 24.hu | 158 | 154–162 | 154–162 | 153–163 | 151–164 |
-| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 158 | 156–160 | 155–161 | 155–161 | 154–162 |
+| [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 158 | 156–161 | 155–161 | 155–161 | 154–162 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 154 | 152–156 | 151–157 | 149–158 | 148–160 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 154 | 151–157 | 150–158 | 150–159 | 148–160 |
 | [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 160 | 157–163 | 157–163 | 156–164 | 155–166 |
@@ -170,20 +170,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 2% | 91% |  |
 | 146 | 2% | 89% |  |
 | 147 | 2% | 87% |  |
-| 148 | 1.2% | 86% |  |
+| 148 | 1.4% | 85% |  |
 | 149 | 3% | 84% |  |
 | 150 | 2% | 81% |  |
 | 151 | 2% | 79% |  |
-| 152 | 4% | 77% |  |
+| 152 | 4% | 76% |  |
 | 153 | 6% | 73% |  |
 | 154 | 6% | 67% |  |
 | 155 | 8% | 61% |  |
 | 156 | 7% | 53% | Median |
 | 157 | 6% | 46% |  |
 | 158 | 9% | 40% |  |
-| 159 | 8% | 32% |  |
+| 159 | 7% | 31% |  |
 | 160 | 6% | 24% |  |
-| 161 | 3% | 18% |  |
+| 161 | 4% | 19% |  |
 | 162 | 2% | 15% |  |
 | 163 | 0.5% | 13% |  |
 | 164 | 0.2% | 13% |  |
