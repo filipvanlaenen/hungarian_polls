@@ -108,7 +108,7 @@ Last result: **133** seats (General Election of 6 April 2014)
 | [3–19 March 2018](2018-03-19-NézőpontIntézet.html) | Nézőpont Intézet | 158 | 156–161 | 155–161 | 155–161 | 154–162 |
 | [7–14 March 2018](2018-03-14-ZRIZáveczResearch.html) | ZRI Závecz Research | 154 | 152–156 | 151–157 | 149–158 | 148–160 |
 | [9–14 March 2018](2018-03-14-PublicusResearch.html) | Publicus Research | 154 | 151–157 | 150–158 | 150–159 | 148–160 |
-| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 160 | 157–163 | 157–163 | 156–164 | 155–166 |
+| [2–7 March 2018](2018-03-07-Medián.html) | Medián <br> hvg.hu | 160 | 158–163 | 157–164 | 156–164 | 155–165 |
 | [1–5 March 2018](2018-03-05-NézőpontIntézet.html) | Nézőpont Intézet | 158 | 156–161 | 155–162 | 154–162 | 153–164 |
 | [26–28 February 2018](2018-02-28-SzázadvégAlapítvány.html) | Századvég Alapítvány | 157 | 155–159 | 154–160 | 154–161 | 153–162 |
 | [1–28 February 2018](2018-02-28-IránytűIntézet.html) | Iránytű Intézet <br> Magyar Nemzet | 146 | 143–149 | 141–150 | 140–151 | 135–153 |
