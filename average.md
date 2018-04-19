@@ -390,11 +390,11 @@ Only polls for which at least the sample size has been published are included in
 | 148 | 2% | 85% |  |
 | 149 | 3% | 84% |  |
 | 150 | 2% | 81% |  |
-| 151 | 2% | 79% |  |
+| 151 | 3% | 79% |  |
 | 152 | 4% | 76% |  |
 | 153 | 6% | 73% |  |
-| 154 | 6% | 67% |  |
-| 155 | 8% | 61% |  |
+| 154 | 7% | 67% |  |
+| 155 | 7% | 60% |  |
 | 156 | 6% | 53% | Median |
 | 157 | 7% | 47% |  |
 | 158 | 9% | 40% |  |
@@ -435,9 +435,9 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 2% | 88% |  |
 | 10 | 7% | 86% |  |
 | 11 | 13% | 79% |  |
-| 12 | 15% | 65% |  |
-| 13 | 13% | 51% | Median |
-| 14 | 7% | 38% |  |
+| 12 | 15% | 66% |  |
+| 13 | 12% | 50% | Median |
+| 14 | 8% | 38% |  |
 | 15 | 5% | 31% |  |
 | 16 | 3% | 26% |  |
 | 17 | 3% | 23% |  |
@@ -469,9 +469,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.5% | 85% | Last Result |
 | 5 | 23% | 85% |  |
 | 6 | 26% | 61% | Median |
-| 7 | 17% | 35% |  |
+| 7 | 18% | 35% |  |
 | 8 | 12% | 17% |  |
-| 9 | 5% | 5% |  |
+| 9 | 4% | 5% |  |
 | 10 | 0.8% | 0.8% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
@@ -527,9 +527,9 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 12% | 75% |  |
 | 16 | 10% | 64% |  |
 | 17 | 6% | 54% | Median |
-| 18 | 8% | 48% |  |
-| 19 | 9% | 40% |  |
-| 20 | 8% | 31% |  |
+| 18 | 7% | 48% |  |
+| 19 | 10% | 41% |  |
+| 20 | 9% | 32% |  |
 | 21 | 5% | 23% |  |
 | 22 | 2% | 18% |  |
 | 23 | 1.2% | 16% | Last Result |
@@ -644,11 +644,11 @@ Only polls for which at least the sample size has been published are included in
 | 148 | 2% | 85% |  |
 | 149 | 3% | 84% |  |
 | 150 | 2% | 81% |  |
-| 151 | 2% | 79% |  |
+| 151 | 3% | 79% |  |
 | 152 | 4% | 76% |  |
 | 153 | 6% | 73% |  |
-| 154 | 6% | 67% |  |
-| 155 | 8% | 61% |  |
+| 154 | 7% | 67% |  |
+| 155 | 7% | 60% |  |
 | 156 | 6% | 53% | Median |
 | 157 | 7% | 47% |  |
 | 158 | 9% | 40% |  |
@@ -693,8 +693,8 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 16% | 71% |  |
 | 19 | 16% | 55% | Median |
 | 20 | 12% | 39% |  |
-| 21 | 10% | 27% |  |
-| 22 | 6% | 18% |  |
+| 21 | 9% | 27% |  |
+| 22 | 6% | 17% |  |
 | 23 | 4% | 12% |  |
 | 24 | 4% | 8% |  |
 | 25 | 2% | 4% |  |
