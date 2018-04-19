@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Wed, 18 Apr 2018 15:15:06 +0200</pubDate>
+    <pubDate>Thu, 19 Apr 2018 08:25:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Publicus Research, 28 March–3 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-04-03-PublicusResearch.html#seats</link>
@@ -196,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch-seats.png"
         length="118735"
         type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 11:17:33 +0100</pubDate>
-      <dc:date>2018-03-21T11:17:33.835783+01:00</dc:date>
+      <pubDate>Thu, 19 Apr 2018 08:25:23 +0200</pubDate>
+      <dc:date>2018-04-19T08:25:23.047628+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–14 March 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -206,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch-coalitions-seats.png"
         length="79582"
         type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 11:17:33 +0100</pubDate>
-      <dc:date>2018-03-21T11:17:33.835783+01:00</dc:date>
+      <pubDate>Thu, 19 Apr 2018 08:25:23 +0200</pubDate>
+      <dc:date>2018-04-19T08:25:23.047628+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ZRI Závecz Research, 7–14 March 2018 – Voting Intentions</title>
@@ -216,8 +216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-ZRIZáveczResearch.png"
         length="189575"
         type="image/png"/>
-      <pubDate>Wed, 21 Mar 2018 11:17:33 +0100</pubDate>
-      <dc:date>2018-03-21T11:17:33.835783+01:00</dc:date>
+      <pubDate>Thu, 19 Apr 2018 08:25:23 +0200</pubDate>
+      <dc:date>2018-04-19T08:25:23.047628+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 March 2018 – Seat Projections</title>
@@ -1149,6 +1149,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-04-18T15:15:06.421408+02:00</dc:date>
+    <dc:date>2018-04-19T08:25:23.047628+02:00</dc:date>
   </channel>
 </rss>
