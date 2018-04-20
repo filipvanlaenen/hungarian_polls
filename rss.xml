@@ -8,7 +8,7 @@
     <title>All Registered Polls for the National Assembly of Hungary</title>
     <link>https://filipvanlaenen.github.io/hungarian_polls</link>
     <description>All Registered Polls for the National Assembly of Hungary</description>
-    <pubDate>Thu, 19 Apr 2018 22:47:08 +0200</pubDate>
+    <pubDate>Fri, 20 Apr 2018 17:19:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Publicus Research, 28 March–3 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-04-03-PublicusResearch.html#seats</link>
@@ -226,18 +226,18 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch-seats.png"
         length="116347"
         type="image/png"/>
-      <pubDate>Fri, 13 Apr 2018 18:06:48 +0200</pubDate>
-      <dc:date>2018-04-13T18:06:48.135254+02:00</dc:date>
+      <pubDate>Fri, 20 Apr 2018 17:19:09 +0200</pubDate>
+      <dc:date>2018-04-20T17:19:09.372912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 March 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch-coalitions-seats.png"
-        length="80714"
+        length="81241"
         type="image/png"/>
-      <pubDate>Fri, 13 Apr 2018 18:06:48 +0200</pubDate>
-      <dc:date>2018-04-13T18:06:48.135254+02:00</dc:date>
+      <pubDate>Fri, 20 Apr 2018 17:19:09 +0200</pubDate>
+      <dc:date>2018-04-20T17:19:09.372912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Publicus Research, 9–14 March 2018 – Voting Intentions</title>
@@ -246,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/hungarian_polls/2018-03-14-PublicusResearch.png"
         length="188351"
         type="image/png"/>
-      <pubDate>Fri, 13 Apr 2018 18:06:48 +0200</pubDate>
-      <dc:date>2018-04-13T18:06:48.135254+02:00</dc:date>
+      <pubDate>Fri, 20 Apr 2018 17:19:09 +0200</pubDate>
+      <dc:date>2018-04-20T17:19:09.372912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Medián for hvg.hu, 2–7 March 2018 – Seat Projections</title>
@@ -1149,6 +1149,6 @@
       <pubDate>Sat, 06 Jan 2018 09:18:04 +0100</pubDate>
       <dc:date>2018-01-06T09:18:04.927138+01:00</dc:date>
     </item>
-    <dc:date>2018-04-19T22:47:08.111343+02:00</dc:date>
+    <dc:date>2018-04-20T17:19:09.372912+02:00</dc:date>
   </channel>
 </rss>
